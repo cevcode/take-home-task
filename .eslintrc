@@ -1,0 +1,72 @@
+{
+    "parserOptions": {
+        "jsx": true,
+        "useJSXTextNode": true,
+        "sourceType": "module"
+    },
+    "env": {
+        "browser": true,
+        "node": true,
+        "es6": true
+    },
+    "settings": {
+        "react": {
+            "pragma": "React",
+            "version": "detect"
+        }
+    },
+    "plugins": ["@typescript-eslint", "react-hooks", "import", "unused-imports"],
+    "rules": {
+        "no-var": "error",
+        "no-console": ["warn", { "allow": ["warn", "error"] }],
+        "react-hooks/rules-of-hooks": "error",
+        "react/display-name": [0, { "ignoreTranspilerName": true }],
+        "react/prop-types": "off",
+        "@typescript-eslint/explicit-function-return-type": "off",
+        "@typescript-eslint/explicit-module-boundary-types": "off",
+        "eqeqeq": "off",
+        "@typescript-eslint/no-non-null-assertion": "off",
+        "@typescript-eslint/no-inferrable-types": "off",
+        "no-unused-vars": "off",
+        "@typescript-eslint/no-unused-vars": "off",
+        "react/jsx-uses-react": "off",
+        "react/react-in-jsx-scope": "off",
+        "no-underscore-dangle": [
+            "warn",
+            {
+                "enforceInMethodNames": true,
+                "allowFunctionParams": true
+            }
+        ],
+        "sort-imports": "off",
+        "import/order": "off",
+        "import/newline-after-import": "warn",
+
+        // will be enabled and auto-fix at commit
+        "curly": "off",
+        "simple-import-sort/exports": "off",
+        "unused-imports/no-unused-imports": "off",
+        "simple-import-sort/imports": [
+            "off",
+            {
+                "groups": [
+                    [
+                        "^react(.*)$",
+                        "^classnames$",
+                        "^lodash$",
+                        "^moment(.*)$",
+                        "^[@a-zA-Z](.*)(?<!\\.s?css)$",
+                        "^[@a-zA-Z](.*)(\\.s?css)$",
+                        "^~/(.*)(?<!\\.s?css)$",
+                        "^~/(.*)(\\.s?css)$",
+                        "^\\.\\./(.*)(?<!\\.s?css)$",
+                        "^\\.\\./(.*)(\\.s?css)$",
+                        "^\\./(.*)(?<!\\.s?css)$",
+                        "^\\./(.*)(\\.s?css)$",
+                        "^\\u0000"
+                    ]
+                ]
+            }
+        ]
+    }
+}
