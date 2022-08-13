@@ -3480,12 +3480,845 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern u1="O" u2="&#x37;" k="10" />
     <hkern u1="O" u2="&#x29;" k="32" />
     <hkern u1="P" u2="&#x338;" k="52" />
+    <hkern u1="P" g2="bracketright.case" k="31" />
+    <hkern u1="P" g2="braceright.case" k="33" />
+    <hkern u1="P" g2="parenright.case" k="41" />
+    <hkern u1="P" g2="uni004A0301" k="13" />
+    <hkern u1="P" u2="&#x2026;" k="78" />
+    <hkern u1="P" u2="&#x201e;" k="78" />
+    <hkern u1="P" u2="&#x201a;" k="78" />
+    <hkern u1="P" u2="&#x2014;" k="19" />
+    <hkern u1="P" u2="&#x2013;" k="19" />
+    <hkern u1="P" u2="&#x1ef2;" k="18" />
+    <hkern u1="P" u2="&#x1e84;" k="6" />
+    <hkern u1="P" u2="&#x1e82;" k="6" />
+    <hkern u1="P" u2="&#x1e80;" k="6" />
+    <hkern u1="P" u2="&#x1ff;" k="7" />
+    <hkern u1="P" u2="&#x1fd;" k="9" />
+    <hkern u1="P" u2="&#x1fc;" k="69" />
+    <hkern u1="P" u2="&#x17d;" k="6" />
+    <hkern u1="P" u2="&#x17b;" k="6" />
+    <hkern u1="P" u2="&#x179;" k="6" />
+    <hkern u1="P" u2="&#x178;" k="18" />
+    <hkern u1="P" u2="&#x176;" k="18" />
+    <hkern u1="P" u2="&#x174;" k="6" />
+    <hkern u1="P" u2="&#x153;" k="7" />
+    <hkern u1="P" u2="&#x151;" k="7" />
+    <hkern u1="P" u2="&#x14f;" k="7" />
+    <hkern u1="P" u2="&#x14d;" k="7" />
+    <hkern u1="P" u2="&#x134;" k="13" />
+    <hkern u1="P" u2="&#x123;" k="7" />
+    <hkern u1="P" u2="&#x121;" k="7" />
+    <hkern u1="P" u2="&#x11f;" k="7" />
+    <hkern u1="P" u2="&#x11d;" k="7" />
+    <hkern u1="P" u2="&#x11b;" k="7" />
+    <hkern u1="P" u2="&#x119;" k="7" />
+    <hkern u1="P" u2="&#x117;" k="7" />
+    <hkern u1="P" u2="&#x115;" k="7" />
+    <hkern u1="P" u2="&#x113;" k="7" />
+    <hkern u1="P" u2="&#x111;" k="7" />
+    <hkern u1="P" u2="&#x10f;" k="7" />
+    <hkern u1="P" u2="&#x10d;" k="7" />
+    <hkern u1="P" u2="&#x10b;" k="7" />
+    <hkern u1="P" u2="&#x109;" k="7" />
+    <hkern u1="P" u2="&#x107;" k="7" />
+    <hkern u1="P" u2="&#x105;" k="9" />
+    <hkern u1="P" u2="&#x104;" k="37" />
+    <hkern u1="P" u2="&#x103;" k="9" />
+    <hkern u1="P" u2="&#x102;" k="37" />
+    <hkern u1="P" u2="&#x101;" k="9" />
+    <hkern u1="P" u2="&#x100;" k="37" />
+    <hkern u1="P" u2="&#xf8;" k="7" />
+    <hkern u1="P" u2="&#xf6;" k="7" />
+    <hkern u1="P" u2="&#xf5;" k="7" />
+    <hkern u1="P" u2="&#xf4;" k="7" />
+    <hkern u1="P" u2="&#xf3;" k="7" />
+    <hkern u1="P" u2="&#xf2;" k="7" />
+    <hkern u1="P" u2="&#xf0;" k="19" />
+    <hkern u1="P" u2="&#xeb;" k="7" />
+    <hkern u1="P" u2="&#xea;" k="7" />
+    <hkern u1="P" u2="&#xe9;" k="7" />
+    <hkern u1="P" u2="&#xe8;" k="7" />
+    <hkern u1="P" u2="&#xe7;" k="7" />
+    <hkern u1="P" u2="&#xe6;" k="9" />
+    <hkern u1="P" u2="&#xe5;" k="9" />
+    <hkern u1="P" u2="&#xe4;" k="9" />
+    <hkern u1="P" u2="&#xe3;" k="9" />
+    <hkern u1="P" u2="&#xe2;" k="9" />
+    <hkern u1="P" u2="&#xe1;" k="9" />
+    <hkern u1="P" u2="&#xe0;" k="9" />
+    <hkern u1="P" u2="&#xdd;" k="18" />
+    <hkern u1="P" u2="&#xc6;" k="69" />
+    <hkern u1="P" u2="&#xc5;" k="37" />
+    <hkern u1="P" u2="&#xc4;" k="37" />
+    <hkern u1="P" u2="&#xc3;" k="37" />
+    <hkern u1="P" u2="&#xc2;" k="37" />
+    <hkern u1="P" u2="&#xc1;" k="37" />
+    <hkern u1="P" u2="&#xc0;" k="37" />
+    <hkern u1="P" u2="&#x7d;" k="22" />
+    <hkern u1="P" u2="q" k="7" />
+    <hkern u1="P" u2="o" k="7" />
+    <hkern u1="P" u2="g" k="7" />
+    <hkern u1="P" u2="e" k="7" />
+    <hkern u1="P" u2="d" k="7" />
+    <hkern u1="P" u2="c" k="7" />
+    <hkern u1="P" u2="a" k="9" />
+    <hkern u1="P" u2="]" k="22" />
+    <hkern u1="P" u2="Z" k="6" />
+    <hkern u1="P" u2="Y" k="18" />
+    <hkern u1="P" u2="X" k="16" />
+    <hkern u1="P" u2="W" k="6" />
+    <hkern u1="P" u2="V" k="17" />
+    <hkern u1="P" u2="J" k="13" />
+    <hkern u1="P" u2="A" k="37" />
+    <hkern u1="P" u2="&#x36;" k="10" />
+    <hkern u1="P" u2="&#x34;" k="20" />
+    <hkern u1="P" u2="&#x33;" k="12" />
+    <hkern u1="P" u2="&#x2f;" k="52" />
+    <hkern u1="P" u2="&#x2e;" k="78" />
+    <hkern u1="P" u2="&#x2d;" k="19" />
+    <hkern u1="P" u2="&#x2c;" k="78" />
+    <hkern u1="P" u2="&#x29;" k="26" />
+    <hkern u1="P" u2="&#x20;" k="23" />
     <hkern u1="Q" u2="&#x338;" k="17" />
+    <hkern u1="Q" g2="bracketright.case" k="30" />
+    <hkern u1="Q" g2="braceright.case" k="32" />
+    <hkern u1="Q" g2="parenright.case" k="39" />
+    <hkern u1="Q" u2="&#x2122;" k="10" />
+    <hkern u1="Q" u2="&#x7d;" k="26" />
+    <hkern u1="Q" u2="]" k="25" />
+    <hkern u1="Q" u2="\" k="18" />
+    <hkern u1="Q" u2="X" k="20" />
+    <hkern u1="Q" u2="V" k="19" />
+    <hkern u1="Q" u2="&#x37;" k="10" />
+    <hkern u1="Q" u2="&#x29;" k="32" />
+    <hkern u1="R" g2="bracketright.case" k="17" />
+    <hkern u1="R" g2="braceright.case" k="15" />
+    <hkern u1="R" g2="parenright.case" k="19" />
+    <hkern u1="R" u2="&#xf0;" k="10" />
+    <hkern u1="R" u2="&#x7d;" k="19" />
+    <hkern u1="R" u2="]" k="20" />
+    <hkern u1="R" u2="V" k="21" />
+    <hkern u1="R" u2="&#x29;" k="24" />
+    <hkern u1="S" g2="bracketright.case" k="26" />
+    <hkern u1="S" g2="braceright.case" k="26" />
+    <hkern u1="S" g2="parenright.case" k="32" />
+    <hkern u1="S" u2="&#x2122;" k="8" />
+    <hkern u1="S" u2="&#x7d;" k="21" />
+    <hkern u1="S" u2="x" k="5" />
+    <hkern u1="S" u2="v" k="5" />
+    <hkern u1="S" u2="]" k="21" />
+    <hkern u1="S" u2="\" k="12" />
+    <hkern u1="S" u2="X" k="10" />
+    <hkern u1="S" u2="V" k="23" />
+    <hkern u1="S" u2="&#x29;" k="26" />
     <hkern u1="T" u2="&#x338;" k="66" />
+    <hkern u1="T" g2="at.case" k="22" />
+    <hkern u1="T" g2="bracketright.case" k="14" />
+    <hkern u1="T" g2="braceright.case" k="11" />
+    <hkern u1="T" g2="parenright.case" k="12" />
+    <hkern u1="T" u2="&#x17f;" k="60" />
+    <hkern u1="T" u2="&#x159;" k="59" />
+    <hkern u1="T" u2="&#x127;" k="22" />
+    <hkern u1="T" u2="&#x111;" k="74" />
+    <hkern u1="T" u2="&#x10f;" k="74" />
+    <hkern u1="T" u2="&#xf0;" k="78" />
+    <hkern u1="T" u2="&#xdf;" k="48" />
+    <hkern u1="T" u2="&#xae;" k="33" />
+    <hkern u1="T" u2="&#xa9;" k="33" />
+    <hkern u1="T" u2="x" k="86" />
+    <hkern u1="T" u2="v" k="97" />
+    <hkern u1="T" u2="j" k="5" />
+    <hkern u1="T" u2="d" k="74" />
+    <hkern u1="T" u2="&#x40;" k="44" />
+    <hkern u1="T" u2="&#x36;" k="59" />
+    <hkern u1="T" u2="&#x34;" k="59" />
+    <hkern u1="T" u2="&#x31;" k="17" />
+    <hkern u1="T" u2="&#x30;" k="11" />
+    <hkern u1="T" u2="&#x26;" k="17" />
+    <hkern u1="T" u2="&#x20;" k="26" />
     <hkern u1="U" u2="&#x338;" k="19" />
+    <hkern u1="U" g2="bracketright.case" k="20" />
+    <hkern u1="U" g2="braceright.case" k="20" />
+    <hkern u1="U" g2="parenright.case" k="24" />
+    <hkern u1="U" u2="&#xf0;" k="6" />
+    <hkern u1="U" u2="&#x7d;" k="11" />
+    <hkern u1="U" u2="]" k="11" />
+    <hkern u1="U" u2="&#x29;" k="12" />
     <hkern u1="V" u2="&#x338;" k="70" />
+    <hkern u1="V" g2="at.case" k="18" />
+    <hkern u1="V" g2="guilsinglright.case" k="13" />
+    <hkern u1="V" g2="guilsinglleft.case" k="38" />
+    <hkern u1="V" g2="guillemotright.case" k="13" />
+    <hkern u1="V" g2="guillemotleft.case" k="38" />
+    <hkern u1="V" g2="bracketright.case" k="28" />
+    <hkern u1="V" g2="braceright.case" k="26" />
+    <hkern u1="V" g2="parenright.case" k="29" />
+    <hkern u1="V" g2="emdash.case" k="36" />
+    <hkern u1="V" g2="endash.case" k="36" />
+    <hkern u1="V" g2="hyphen.case" k="36" />
+    <hkern u1="V" g2="f_f_l" k="13" />
+    <hkern u1="V" g2="f_f_i" k="13" />
+    <hkern u1="V" g2="f_f" k="13" />
+    <hkern u1="V" g2="uni006A0301" k="12" />
+    <hkern u1="V" g2="uni004A0301" k="19" />
+    <hkern u1="V" g2="fl" k="13" />
+    <hkern u1="V" g2="fi" k="13" />
+    <hkern u1="V" u2="&#x203a;" k="12" />
+    <hkern u1="V" u2="&#x2039;" k="37" />
+    <hkern u1="V" u2="&#x2026;" k="73" />
+    <hkern u1="V" u2="&#x201e;" k="73" />
+    <hkern u1="V" u2="&#x201a;" k="73" />
+    <hkern u1="V" u2="&#x2014;" k="44" />
+    <hkern u1="V" u2="&#x2013;" k="44" />
+    <hkern u1="V" u2="&#x1ef3;" k="18" />
+    <hkern u1="V" u2="&#x1e85;" k="17" />
+    <hkern u1="V" u2="&#x1e83;" k="17" />
+    <hkern u1="V" u2="&#x1e81;" k="17" />
+    <hkern u1="V" u2="&#x237;" k="12" />
+    <hkern u1="V" u2="&#x21b;" k="10" />
+    <hkern u1="V" u2="&#x219;" k="49" />
+    <hkern u1="V" u2="&#x218;" k="22" />
+    <hkern u1="V" u2="&#x1ff;" k="51" />
+    <hkern u1="V" u2="&#x1fe;" k="19" />
+    <hkern u1="V" u2="&#x1fd;" k="55" />
+    <hkern u1="V" u2="&#x1fc;" k="65" />
+    <hkern u1="V" u2="&#x17f;" k="13" />
+    <hkern u1="V" u2="&#x17e;" k="26" />
+    <hkern u1="V" u2="&#x17c;" k="26" />
+    <hkern u1="V" u2="&#x17a;" k="26" />
+    <hkern u1="V" u2="&#x177;" k="18" />
+    <hkern u1="V" u2="&#x175;" k="17" />
+    <hkern u1="V" u2="&#x173;" k="37" />
+    <hkern u1="V" u2="&#x171;" k="37" />
+    <hkern u1="V" u2="&#x16f;" k="37" />
+    <hkern u1="V" u2="&#x16d;" k="37" />
+    <hkern u1="V" u2="&#x16b;" k="37" />
+    <hkern u1="V" u2="&#x169;" k="37" />
+    <hkern u1="V" u2="&#x167;" k="10" />
+    <hkern u1="V" u2="&#x165;" k="10" />
+    <hkern u1="V" u2="&#x161;" k="49" />
+    <hkern u1="V" u2="&#x160;" k="22" />
+    <hkern u1="V" u2="&#x15f;" k="49" />
+    <hkern u1="V" u2="&#x15e;" k="22" />
+    <hkern u1="V" u2="&#x15d;" k="49" />
+    <hkern u1="V" u2="&#x15c;" k="22" />
+    <hkern u1="V" u2="&#x15b;" k="49" />
+    <hkern u1="V" u2="&#x15a;" k="22" />
+    <hkern u1="V" u2="&#x159;" k="32" />
+    <hkern u1="V" u2="&#x157;" k="41" />
+    <hkern u1="V" u2="&#x155;" k="41" />
+    <hkern u1="V" u2="&#x153;" k="51" />
+    <hkern u1="V" u2="&#x152;" k="19" />
+    <hkern u1="V" u2="&#x151;" k="51" />
+    <hkern u1="V" u2="&#x150;" k="19" />
+    <hkern u1="V" u2="&#x14f;" k="51" />
+    <hkern u1="V" u2="&#x14e;" k="19" />
+    <hkern u1="V" u2="&#x14d;" k="51" />
+    <hkern u1="V" u2="&#x14c;" k="19" />
+    <hkern u1="V" u2="&#x14b;" k="41" />
+    <hkern u1="V" u2="&#x149;" k="41" />
+    <hkern u1="V" u2="&#x148;" k="41" />
+    <hkern u1="V" u2="&#x146;" k="41" />
+    <hkern u1="V" u2="&#x144;" k="41" />
+    <hkern u1="V" u2="&#x138;" k="41" />
+    <hkern u1="V" u2="&#x137;" k="18" />
+    <hkern u1="V" u2="&#x135;" k="12" />
+    <hkern u1="V" u2="&#x134;" k="19" />
+    <hkern u1="V" u2="&#x133;" k="12" />
+    <hkern u1="V" u2="&#x131;" k="41" />
+    <hkern u1="V" u2="&#x12f;" k="12" />
+    <hkern u1="V" u2="&#x12d;" k="12" />
+    <hkern u1="V" u2="&#x12b;" k="12" />
+    <hkern u1="V" u2="&#x129;" k="12" />
+    <hkern u1="V" u2="&#x127;" k="18" />
+    <hkern u1="V" u2="&#x125;" k="18" />
+    <hkern u1="V" u2="&#x123;" k="51" />
+    <hkern u1="V" u2="&#x122;" k="19" />
+    <hkern u1="V" u2="&#x121;" k="51" />
+    <hkern u1="V" u2="&#x120;" k="19" />
+    <hkern u1="V" u2="&#x11f;" k="51" />
+    <hkern u1="V" u2="&#x11e;" k="19" />
+    <hkern u1="V" u2="&#x11d;" k="51" />
+    <hkern u1="V" u2="&#x11c;" k="19" />
+    <hkern u1="V" u2="&#x11b;" k="51" />
+    <hkern u1="V" u2="&#x119;" k="51" />
+    <hkern u1="V" u2="&#x117;" k="51" />
+    <hkern u1="V" u2="&#x115;" k="51" />
+    <hkern u1="V" u2="&#x113;" k="51" />
+    <hkern u1="V" u2="&#x111;" k="51" />
+    <hkern u1="V" u2="&#x10f;" k="51" />
+    <hkern u1="V" u2="&#x10d;" k="51" />
+    <hkern u1="V" u2="&#x10c;" k="19" />
+    <hkern u1="V" u2="&#x10b;" k="51" />
+    <hkern u1="V" u2="&#x10a;" k="19" />
+    <hkern u1="V" u2="&#x109;" k="51" />
+    <hkern u1="V" u2="&#x108;" k="19" />
+    <hkern u1="V" u2="&#x107;" k="51" />
+    <hkern u1="V" u2="&#x106;" k="19" />
+    <hkern u1="V" u2="&#x105;" k="55" />
+    <hkern u1="V" u2="&#x104;" k="46" />
+    <hkern u1="V" u2="&#x103;" k="55" />
+    <hkern u1="V" u2="&#x102;" k="46" />
+    <hkern u1="V" u2="&#x101;" k="55" />
+    <hkern u1="V" u2="&#x100;" k="46" />
+    <hkern u1="V" u2="&#xff;" k="18" />
+    <hkern u1="V" u2="&#xfe;" k="18" />
+    <hkern u1="V" u2="&#xfd;" k="18" />
+    <hkern u1="V" u2="&#xfc;" k="37" />
+    <hkern u1="V" u2="&#xfb;" k="37" />
+    <hkern u1="V" u2="&#xfa;" k="37" />
+    <hkern u1="V" u2="&#xf9;" k="37" />
+    <hkern u1="V" u2="&#xf8;" k="51" />
+    <hkern u1="V" u2="&#xf6;" k="51" />
+    <hkern u1="V" u2="&#xf5;" k="51" />
+    <hkern u1="V" u2="&#xf4;" k="51" />
+    <hkern u1="V" u2="&#xf3;" k="51" />
+    <hkern u1="V" u2="&#xf2;" k="51" />
+    <hkern u1="V" u2="&#xf1;" k="41" />
+    <hkern u1="V" u2="&#xf0;" k="59" />
+    <hkern u1="V" u2="&#xef;" k="12" />
+    <hkern u1="V" u2="&#xee;" k="12" />
+    <hkern u1="V" u2="&#xed;" k="12" />
+    <hkern u1="V" u2="&#xec;" k="-10" />
+    <hkern u1="V" u2="&#xeb;" k="51" />
+    <hkern u1="V" u2="&#xea;" k="51" />
+    <hkern u1="V" u2="&#xe9;" k="51" />
+    <hkern u1="V" u2="&#xe8;" k="51" />
+    <hkern u1="V" u2="&#xe7;" k="51" />
+    <hkern u1="V" u2="&#xe6;" k="55" />
+    <hkern u1="V" u2="&#xe5;" k="55" />
+    <hkern u1="V" u2="&#xe4;" k="55" />
+    <hkern u1="V" u2="&#xe3;" k="55" />
+    <hkern u1="V" u2="&#xe2;" k="55" />
+    <hkern u1="V" u2="&#xe1;" k="55" />
+    <hkern u1="V" u2="&#xe0;" k="55" />
+    <hkern u1="V" u2="&#xdf;" k="18" />
+    <hkern u1="V" u2="&#xd8;" k="19" />
+    <hkern u1="V" u2="&#xd6;" k="19" />
+    <hkern u1="V" u2="&#xd5;" k="19" />
+    <hkern u1="V" u2="&#xd4;" k="19" />
+    <hkern u1="V" u2="&#xd3;" k="19" />
+    <hkern u1="V" u2="&#xd2;" k="19" />
+    <hkern u1="V" u2="&#xc7;" k="19" />
+    <hkern u1="V" u2="&#xc6;" k="65" />
+    <hkern u1="V" u2="&#xc5;" k="46" />
+    <hkern u1="V" u2="&#xc4;" k="46" />
+    <hkern u1="V" u2="&#xc3;" k="46" />
+    <hkern u1="V" u2="&#xc2;" k="46" />
+    <hkern u1="V" u2="&#xc1;" k="46" />
+    <hkern u1="V" u2="&#xc0;" k="46" />
+    <hkern u1="V" u2="&#xbb;" k="12" />
+    <hkern u1="V" u2="&#xae;" k="21" />
+    <hkern u1="V" u2="&#xab;" k="37" />
+    <hkern u1="V" u2="&#xa9;" k="21" />
+    <hkern u1="V" u2="z" k="26" />
+    <hkern u1="V" u2="y" k="18" />
+    <hkern u1="V" u2="x" k="23" />
+    <hkern u1="V" u2="w" k="17" />
+    <hkern u1="V" u2="v" k="18" />
+    <hkern u1="V" u2="u" k="37" />
+    <hkern u1="V" u2="t" k="10" />
+    <hkern u1="V" u2="s" k="49" />
+    <hkern u1="V" u2="r" k="41" />
+    <hkern u1="V" u2="q" k="51" />
+    <hkern u1="V" u2="p" k="41" />
+    <hkern u1="V" u2="o" k="51" />
+    <hkern u1="V" u2="n" k="41" />
+    <hkern u1="V" u2="m" k="41" />
+    <hkern u1="V" u2="k" k="18" />
+    <hkern u1="V" u2="i" k="12" />
+    <hkern u1="V" u2="h" k="18" />
+    <hkern u1="V" u2="g" k="51" />
+    <hkern u1="V" u2="f" k="13" />
+    <hkern u1="V" u2="e" k="51" />
+    <hkern u1="V" u2="d" k="51" />
+    <hkern u1="V" u2="c" k="51" />
+    <hkern u1="V" u2="b" k="18" />
+    <hkern u1="V" u2="a" k="55" />
+    <hkern u1="V" u2="S" k="22" />
+    <hkern u1="V" u2="Q" k="19" />
+    <hkern u1="V" u2="O" k="19" />
+    <hkern u1="V" u2="J" k="19" />
+    <hkern u1="V" u2="G" k="19" />
+    <hkern u1="V" u2="C" k="19" />
+    <hkern u1="V" u2="A" k="46" />
+    <hkern u1="V" u2="&#x40;" k="28" />
+    <hkern u1="V" u2="&#x3b;" k="26" />
+    <hkern u1="V" u2="&#x3a;" k="26" />
+    <hkern u1="V" u2="&#x39;" k="12" />
+    <hkern u1="V" u2="&#x38;" k="16" />
+    <hkern u1="V" u2="&#x36;" k="42" />
+    <hkern u1="V" u2="&#x35;" k="14" />
+    <hkern u1="V" u2="&#x34;" k="43" />
+    <hkern u1="V" u2="&#x32;" k="13" />
+    <hkern u1="V" u2="&#x31;" k="11" />
+    <hkern u1="V" u2="&#x30;" k="15" />
+    <hkern u1="V" u2="&#x2f;" k="70" />
+    <hkern u1="V" u2="&#x2e;" k="73" />
+    <hkern u1="V" u2="&#x2d;" k="44" />
+    <hkern u1="V" u2="&#x2c;" k="73" />
+    <hkern u1="V" u2="&#x26;" k="23" />
+    <hkern u1="V" u2="&#x20;" k="28" />
     <hkern u1="W" u2="&#x338;" k="37" />
+    <hkern u1="W" g2="bracketright.case" k="11" />
+    <hkern u1="W" g2="braceright.case" k="10" />
+    <hkern u1="W" g2="parenright.case" k="11" />
+    <hkern u1="W" u2="&#x159;" k="7" />
+    <hkern u1="W" u2="&#xf0;" k="27" />
+    <hkern u1="W" u2="&#x36;" k="18" />
+    <hkern u1="W" u2="&#x34;" k="15" />
+    <hkern u1="W" u2="&#x26;" k="10" />
+    <hkern u1="W" u2="&#x20;" k="20" />
+    <hkern u1="X" g2="guilsinglleft.case" k="47" />
+    <hkern u1="X" g2="guillemotleft.case" k="47" />
+    <hkern u1="X" g2="emdash.case" k="56" />
+    <hkern u1="X" g2="endash.case" k="56" />
+    <hkern u1="X" g2="hyphen.case" k="56" />
+    <hkern u1="X" g2="f_f_l" k="12" />
+    <hkern u1="X" g2="f_f_i" k="12" />
+    <hkern u1="X" g2="f_f" k="12" />
+    <hkern u1="X" g2="uni006A0301" k="12" />
+    <hkern u1="X" g2="uni004A0301" k="7" />
+    <hkern u1="X" g2="fl" k="12" />
+    <hkern u1="X" g2="fi" k="12" />
+    <hkern u1="X" u2="&#x2039;" k="47" />
+    <hkern u1="X" u2="&#x2014;" k="52" />
+    <hkern u1="X" u2="&#x2013;" k="52" />
+    <hkern u1="X" u2="&#x1ef3;" k="38" />
+    <hkern u1="X" u2="&#x1e85;" k="28" />
+    <hkern u1="X" u2="&#x1e83;" k="28" />
+    <hkern u1="X" u2="&#x1e81;" k="28" />
+    <hkern u1="X" u2="&#x237;" k="12" />
+    <hkern u1="X" u2="&#x21b;" k="10" />
+    <hkern u1="X" u2="&#x219;" k="5" />
+    <hkern u1="X" u2="&#x218;" k="9" />
+    <hkern u1="X" u2="&#x1ff;" k="22" />
+    <hkern u1="X" u2="&#x1fe;" k="20" />
+    <hkern u1="X" u2="&#x17f;" k="12" />
+    <hkern u1="X" u2="&#x177;" k="38" />
+    <hkern u1="X" u2="&#x175;" k="28" />
+    <hkern u1="X" u2="&#x173;" k="20" />
+    <hkern u1="X" u2="&#x171;" k="20" />
+    <hkern u1="X" u2="&#x16f;" k="20" />
+    <hkern u1="X" u2="&#x16d;" k="20" />
+    <hkern u1="X" u2="&#x16b;" k="20" />
+    <hkern u1="X" u2="&#x169;" k="20" />
+    <hkern u1="X" u2="&#x167;" k="10" />
+    <hkern u1="X" u2="&#x165;" k="10" />
+    <hkern u1="X" u2="&#x161;" k="5" />
+    <hkern u1="X" u2="&#x160;" k="9" />
+    <hkern u1="X" u2="&#x15f;" k="5" />
+    <hkern u1="X" u2="&#x15e;" k="9" />
+    <hkern u1="X" u2="&#x15d;" k="5" />
+    <hkern u1="X" u2="&#x15c;" k="9" />
+    <hkern u1="X" u2="&#x15b;" k="5" />
+    <hkern u1="X" u2="&#x15a;" k="9" />
+    <hkern u1="X" u2="&#x153;" k="22" />
+    <hkern u1="X" u2="&#x152;" k="20" />
+    <hkern u1="X" u2="&#x151;" k="22" />
+    <hkern u1="X" u2="&#x150;" k="20" />
+    <hkern u1="X" u2="&#x14f;" k="22" />
+    <hkern u1="X" u2="&#x14e;" k="20" />
+    <hkern u1="X" u2="&#x14d;" k="22" />
+    <hkern u1="X" u2="&#x14c;" k="20" />
+    <hkern u1="X" u2="&#x135;" k="12" />
+    <hkern u1="X" u2="&#x134;" k="7" />
+    <hkern u1="X" u2="&#x133;" k="-10" />
+    <hkern u1="X" u2="&#x131;" k="-10" />
+    <hkern u1="X" u2="&#x12f;" k="-10" />
+    <hkern u1="X" u2="&#x12d;" k="-10" />
+    <hkern u1="X" u2="&#x12b;" k="-10" />
+    <hkern u1="X" u2="&#x129;" k="-10" />
+    <hkern u1="X" u2="&#x123;" k="23" />
+    <hkern u1="X" u2="&#x122;" k="20" />
+    <hkern u1="X" u2="&#x121;" k="23" />
+    <hkern u1="X" u2="&#x120;" k="20" />
+    <hkern u1="X" u2="&#x11f;" k="23" />
+    <hkern u1="X" u2="&#x11e;" k="20" />
+    <hkern u1="X" u2="&#x11d;" k="23" />
+    <hkern u1="X" u2="&#x11c;" k="20" />
+    <hkern u1="X" u2="&#x11b;" k="22" />
+    <hkern u1="X" u2="&#x119;" k="22" />
+    <hkern u1="X" u2="&#x117;" k="22" />
+    <hkern u1="X" u2="&#x115;" k="22" />
+    <hkern u1="X" u2="&#x113;" k="22" />
+    <hkern u1="X" u2="&#x111;" k="23" />
+    <hkern u1="X" u2="&#x10f;" k="23" />
+    <hkern u1="X" u2="&#x10d;" k="22" />
+    <hkern u1="X" u2="&#x10c;" k="20" />
+    <hkern u1="X" u2="&#x10b;" k="22" />
+    <hkern u1="X" u2="&#x10a;" k="20" />
+    <hkern u1="X" u2="&#x109;" k="22" />
+    <hkern u1="X" u2="&#x108;" k="20" />
+    <hkern u1="X" u2="&#x107;" k="22" />
+    <hkern u1="X" u2="&#x106;" k="20" />
+    <hkern u1="X" u2="&#xff;" k="38" />
+    <hkern u1="X" u2="&#xfd;" k="38" />
+    <hkern u1="X" u2="&#xfc;" k="20" />
+    <hkern u1="X" u2="&#xfb;" k="20" />
+    <hkern u1="X" u2="&#xfa;" k="20" />
+    <hkern u1="X" u2="&#xf9;" k="20" />
+    <hkern u1="X" u2="&#xf8;" k="22" />
+    <hkern u1="X" u2="&#xf6;" k="22" />
+    <hkern u1="X" u2="&#xf5;" k="22" />
+    <hkern u1="X" u2="&#xf4;" k="22" />
+    <hkern u1="X" u2="&#xf3;" k="22" />
+    <hkern u1="X" u2="&#xf2;" k="22" />
+    <hkern u1="X" u2="&#xf0;" k="21" />
+    <hkern u1="X" u2="&#xef;" k="-10" />
+    <hkern u1="X" u2="&#xee;" k="-10" />
+    <hkern u1="X" u2="&#xed;" k="-10" />
+    <hkern u1="X" u2="&#xec;" k="-10" />
+    <hkern u1="X" u2="&#xeb;" k="22" />
+    <hkern u1="X" u2="&#xea;" k="22" />
+    <hkern u1="X" u2="&#xe9;" k="22" />
+    <hkern u1="X" u2="&#xe8;" k="22" />
+    <hkern u1="X" u2="&#xe7;" k="22" />
+    <hkern u1="X" u2="&#xd8;" k="20" />
+    <hkern u1="X" u2="&#xd6;" k="20" />
+    <hkern u1="X" u2="&#xd5;" k="20" />
+    <hkern u1="X" u2="&#xd4;" k="20" />
+    <hkern u1="X" u2="&#xd3;" k="20" />
+    <hkern u1="X" u2="&#xd2;" k="20" />
+    <hkern u1="X" u2="&#xc7;" k="20" />
+    <hkern u1="X" u2="&#xae;" k="19" />
+    <hkern u1="X" u2="&#xab;" k="47" />
+    <hkern u1="X" u2="&#xa9;" k="19" />
+    <hkern u1="X" u2="y" k="38" />
+    <hkern u1="X" u2="w" k="28" />
+    <hkern u1="X" u2="v" k="37" />
+    <hkern u1="X" u2="u" k="20" />
+    <hkern u1="X" u2="t" k="10" />
+    <hkern u1="X" u2="s" k="5" />
+    <hkern u1="X" u2="q" k="23" />
+    <hkern u1="X" u2="o" k="22" />
+    <hkern u1="X" u2="i" k="-10" />
+    <hkern u1="X" u2="g" k="23" />
+    <hkern u1="X" u2="f" k="12" />
+    <hkern u1="X" u2="e" k="22" />
+    <hkern u1="X" u2="d" k="23" />
+    <hkern u1="X" u2="c" k="22" />
+    <hkern u1="X" u2="S" k="9" />
+    <hkern u1="X" u2="Q" k="20" />
+    <hkern u1="X" u2="O" k="20" />
+    <hkern u1="X" u2="J" k="7" />
+    <hkern u1="X" u2="G" k="20" />
+    <hkern u1="X" u2="C" k="20" />
+    <hkern u1="X" u2="&#x34;" k="12" />
+    <hkern u1="X" u2="&#x31;" k="11" />
+    <hkern u1="X" u2="&#x2d;" k="52" />
     <hkern u1="Y" u2="&#x338;" k="83" />
+    <hkern u1="Y" g2="at.case" k="31" />
+    <hkern u1="Y" g2="bracketright.case" k="32" />
+    <hkern u1="Y" g2="braceright.case" k="28" />
+    <hkern u1="Y" g2="parenright.case" k="29" />
+    <hkern u1="Y" u2="&#x17f;" k="37" />
+    <hkern u1="Y" u2="&#x15d;" k="86" />
+    <hkern u1="Y" u2="&#x159;" k="63" />
+    <hkern u1="Y" u2="&#xf0;" k="90" />
+    <hkern u1="Y" u2="&#xe4;" k="98" />
+    <hkern u1="Y" u2="&#xe0;" k="98" />
+    <hkern u1="Y" u2="&#xdf;" k="35" />
+    <hkern u1="Y" u2="&#xae;" k="38" />
+    <hkern u1="Y" u2="&#xa9;" k="38" />
+    <hkern u1="Y" u2="x" k="56" />
+    <hkern u1="Y" u2="v" k="55" />
+    <hkern u1="Y" u2="&#x40;" k="46" />
+    <hkern u1="Y" u2="&#x3f;" k="10" />
+    <hkern u1="Y" u2="&#x39;" k="15" />
+    <hkern u1="Y" u2="&#x38;" k="23" />
+    <hkern u1="Y" u2="&#x36;" k="68" />
+    <hkern u1="Y" u2="&#x35;" k="20" />
+    <hkern u1="Y" u2="&#x34;" k="72" />
+    <hkern u1="Y" u2="&#x32;" k="18" />
+    <hkern u1="Y" u2="&#x31;" k="17" />
+    <hkern u1="Y" u2="&#x30;" k="23" />
+    <hkern u1="Y" u2="&#x26;" k="32" />
+    <hkern u1="Y" u2="&#x20;" k="30" />
+    <hkern u1="Z" u2="&#x17f;" k="11" />
+    <hkern u1="Z" u2="&#xf0;" k="18" />
+    <hkern u1="Z" u2="&#xae;" k="17" />
+    <hkern u1="Z" u2="&#xa9;" k="18" />
+    <hkern u1="Z" u2="v" k="29" />
+    <hkern u1="Z" u2="&#x34;" k="14" />
+    <hkern u1="[" g2="f_f_l" k="22" />
+    <hkern u1="[" g2="f_f_i" k="22" />
+    <hkern u1="[" g2="f_f" k="22" />
+    <hkern u1="[" g2="fl" k="22" />
+    <hkern u1="[" g2="fi" k="22" />
+    <hkern u1="[" u2="&#x1ef3;" k="25" />
+    <hkern u1="[" u2="&#x1e85;" k="32" />
+    <hkern u1="[" u2="&#x1e83;" k="32" />
+    <hkern u1="[" u2="&#x1e81;" k="32" />
+    <hkern u1="[" u2="&#x45f;" k="30" />
+    <hkern u1="[" u2="&#x45d;" k="30" />
+    <hkern u1="[" u2="&#x45c;" k="30" />
+    <hkern u1="[" u2="&#x45a;" k="30" />
+    <hkern u1="[" u2="&#x459;" k="28" />
+    <hkern u1="[" u2="&#x454;" k="34" />
+    <hkern u1="[" u2="&#x453;" k="30" />
+    <hkern u1="[" u2="&#x451;" k="34" />
+    <hkern u1="[" u2="&#x450;" k="34" />
+    <hkern u1="[" u2="&#x44e;" k="30" />
+    <hkern u1="[" u2="&#x44c;" k="30" />
+    <hkern u1="[" u2="&#x44b;" k="30" />
+    <hkern u1="[" u2="&#x449;" k="30" />
+    <hkern u1="[" u2="&#x448;" k="30" />
+    <hkern u1="[" u2="&#x446;" k="30" />
+    <hkern u1="[" u2="&#x441;" k="34" />
+    <hkern u1="[" u2="&#x440;" k="30" />
+    <hkern u1="[" u2="&#x43f;" k="30" />
+    <hkern u1="[" u2="&#x43e;" k="34" />
+    <hkern u1="[" u2="&#x43d;" k="30" />
+    <hkern u1="[" u2="&#x43c;" k="30" />
+    <hkern u1="[" u2="&#x43b;" k="28" />
+    <hkern u1="[" u2="&#x43a;" k="30" />
+    <hkern u1="[" u2="&#x439;" k="30" />
+    <hkern u1="[" u2="&#x438;" k="30" />
+    <hkern u1="[" u2="&#x435;" k="34" />
+    <hkern u1="[" u2="&#x433;" k="30" />
+    <hkern u1="[" u2="&#x432;" k="30" />
+    <hkern u1="[" u2="&#x42e;" k="10" />
+    <hkern u1="[" u2="&#x42c;" k="10" />
+    <hkern u1="[" u2="&#x42b;" k="10" />
+    <hkern u1="[" u2="&#x429;" k="10" />
+    <hkern u1="[" u2="&#x428;" k="10" />
+    <hkern u1="[" u2="&#x426;" k="10" />
+    <hkern u1="[" u2="&#x421;" k="25" />
+    <hkern u1="[" u2="&#x420;" k="10" />
+    <hkern u1="[" u2="&#x41f;" k="10" />
+    <hkern u1="[" u2="&#x41e;" k="25" />
+    <hkern u1="[" u2="&#x41d;" k="10" />
+    <hkern u1="[" u2="&#x41c;" k="10" />
+    <hkern u1="[" u2="&#x41b;" k="18" />
+    <hkern u1="[" u2="&#x41a;" k="10" />
+    <hkern u1="[" u2="&#x419;" k="10" />
+    <hkern u1="[" u2="&#x418;" k="10" />
+    <hkern u1="[" u2="&#x415;" k="10" />
+    <hkern u1="[" u2="&#x413;" k="10" />
+    <hkern u1="[" u2="&#x412;" k="10" />
+    <hkern u1="[" u2="&#x411;" k="10" />
+    <hkern u1="[" u2="&#x40f;" k="10" />
+    <hkern u1="[" u2="&#x40d;" k="10" />
+    <hkern u1="[" u2="&#x40c;" k="10" />
+    <hkern u1="[" u2="&#x40a;" k="10" />
+    <hkern u1="[" u2="&#x409;" k="18" />
+    <hkern u1="[" u2="&#x407;" k="10" />
+    <hkern u1="[" u2="&#x406;" k="10" />
+    <hkern u1="[" u2="&#x404;" k="25" />
+    <hkern u1="[" u2="&#x403;" k="10" />
+    <hkern u1="[" u2="&#x401;" k="10" />
+    <hkern u1="[" u2="&#x400;" k="10" />
+    <hkern u1="[" u2="&#x21b;" k="19" />
+    <hkern u1="[" u2="&#x219;" k="32" />
+    <hkern u1="[" u2="&#x218;" k="20" />
+    <hkern u1="[" u2="&#x1ff;" k="34" />
+    <hkern u1="[" u2="&#x1fe;" k="25" />
+    <hkern u1="[" u2="&#x1fd;" k="32" />
+    <hkern u1="[" u2="&#x1fc;" k="25" />
+    <hkern u1="[" u2="&#x17e;" k="27" />
+    <hkern u1="[" u2="&#x17c;" k="27" />
+    <hkern u1="[" u2="&#x17a;" k="27" />
+    <hkern u1="[" u2="&#x177;" k="25" />
+    <hkern u1="[" u2="&#x175;" k="32" />
+    <hkern u1="[" u2="&#x173;" k="31" />
+    <hkern u1="[" u2="&#x172;" k="11" />
+    <hkern u1="[" u2="&#x171;" k="31" />
+    <hkern u1="[" u2="&#x170;" k="11" />
+    <hkern u1="[" u2="&#x16f;" k="31" />
+    <hkern u1="[" u2="&#x16e;" k="11" />
+    <hkern u1="[" u2="&#x16d;" k="31" />
+    <hkern u1="[" u2="&#x16c;" k="11" />
+    <hkern u1="[" u2="&#x16b;" k="31" />
+    <hkern u1="[" u2="&#x16a;" k="11" />
+    <hkern u1="[" u2="&#x169;" k="31" />
+    <hkern u1="[" u2="&#x168;" k="11" />
+    <hkern u1="[" u2="&#x167;" k="19" />
+    <hkern u1="[" u2="&#x165;" k="19" />
+    <hkern u1="[" u2="&#x161;" k="32" />
+    <hkern u1="[" u2="&#x160;" k="20" />
+    <hkern u1="[" u2="&#x15f;" k="32" />
+    <hkern u1="[" u2="&#x15e;" k="20" />
+    <hkern u1="[" u2="&#x15d;" k="32" />
+    <hkern u1="[" u2="&#x15c;" k="20" />
+    <hkern u1="[" u2="&#x15b;" k="32" />
+    <hkern u1="[" u2="&#x15a;" k="20" />
+    <hkern u1="[" u2="&#x159;" k="30" />
+    <hkern u1="[" u2="&#x158;" k="10" />
+    <hkern u1="[" u2="&#x157;" k="30" />
+    <hkern u1="[" u2="&#x156;" k="10" />
+    <hkern u1="[" u2="&#x155;" k="30" />
+    <hkern u1="[" u2="&#x154;" k="10" />
+    <hkern u1="[" u2="&#x153;" k="34" />
+    <hkern u1="[" u2="&#x152;" k="25" />
+    <hkern u1="[" u2="&#x151;" k="34" />
+    <hkern u1="[" u2="&#x150;" k="25" />
+    <hkern u1="[" u2="&#x14f;" k="34" />
+    <hkern u1="[" u2="&#x14e;" k="25" />
+    <hkern u1="[" u2="&#x14d;" k="34" />
+    <hkern u1="[" u2="&#x14c;" k="25" />
+    <hkern u1="[" u2="&#x14b;" k="30" />
+    <hkern u1="[" u2="&#x14a;" k="10" />
+    <hkern u1="[" u2="&#x149;" k="30" />
+    <hkern u1="[" u2="&#x148;" k="30" />
+    <hkern u1="[" u2="&#x147;" k="10" />
+    <hkern u1="[" u2="&#x146;" k="30" />
+    <hkern u1="[" u2="&#x145;" k="10" />
+    <hkern u1="[" u2="&#x144;" k="30" />
+    <hkern u1="[" u2="&#x143;" k="10" />
+    <hkern u1="[" u2="&#x141;" k="10" />
+    <hkern u1="[" u2="&#x13f;" k="10" />
+    <hkern u1="[" u2="&#x13d;" k="10" />
+    <hkern u1="[" u2="&#x13b;" k="10" />
+    <hkern u1="[" u2="&#x139;" k="10" />
+    <hkern u1="[" u2="&#x138;" k="30" />
+    <hkern u1="[" u2="&#x136;" k="10" />
+    <hkern u1="[" u2="&#x133;" k="-32" />
+    <hkern u1="[" u2="&#x132;" k="10" />
+    <hkern u1="[" u2="&#x131;" k="-32" />
+    <hkern u1="[" u2="&#x130;" k="10" />
+    <hkern u1="[" u2="&#x12f;" k="-32" />
+    <hkern u1="[" u2="&#x12e;" k="2" />
+    <hkern u1="[" u2="&#x12d;" k="-32" />
+    <hkern u1="[" u2="&#x12c;" k="10" />
+    <hkern u1="[" u2="&#x12b;" k="-32" />
+    <hkern u1="[" u2="&#x12a;" k="-10" />
+    <hkern u1="[" u2="&#x129;" k="-32" />
+    <hkern u1="[" u2="&#x128;" k="-14" />
+    <hkern u1="[" u2="&#x126;" k="10" />
+    <hkern u1="[" u2="&#x124;" k="10" />
+    <hkern u1="[" u2="&#x122;" k="25" />
+    <hkern u1="[" u2="&#x120;" k="25" />
+    <hkern u1="[" u2="&#x11e;" k="25" />
+    <hkern u1="[" u2="&#x11c;" k="25" />
+    <hkern u1="[" u2="&#x11b;" k="34" />
+    <hkern u1="[" u2="&#x11a;" k="10" />
+    <hkern u1="[" u2="&#x119;" k="34" />
+    <hkern u1="[" u2="&#x118;" k="10" />
+    <hkern u1="[" u2="&#x117;" k="34" />
+    <hkern u1="[" u2="&#x116;" k="10" />
+    <hkern u1="[" u2="&#x115;" k="34" />
+    <hkern u1="[" u2="&#x114;" k="10" />
+    <hkern u1="[" u2="&#x113;" k="34" />
+    <hkern u1="[" u2="&#x112;" k="10" />
+    <hkern u1="[" u2="&#x111;" k="35" />
+    <hkern u1="[" u2="&#x110;" k="10" />
+    <hkern u1="[" u2="&#x10f;" k="35" />
+    <hkern u1="[" u2="&#x10e;" k="10" />
+    <hkern u1="[" u2="&#x10d;" k="34" />
+    <hkern u1="[" u2="&#x10c;" k="25" />
+    <hkern u1="[" u2="&#x10b;" k="34" />
+    <hkern u1="[" u2="&#x10a;" k="25" />
+    <hkern u1="[" u2="&#x109;" k="34" />
+    <hkern u1="[" u2="&#x108;" k="25" />
+    <hkern u1="[" u2="&#x107;" k="34" />
+    <hkern u1="[" u2="&#x106;" k="25" />
+    <hkern u1="[" u2="&#x105;" k="32" />
+    <hkern u1="[" u2="&#x104;" k="29" />
+    <hkern u1="[" u2="&#x103;" k="32" />
+    <hkern u1="[" u2="&#x102;" k="29" />
+    <hkern u1="[" u2="&#x101;" k="32" />
+    <hkern u1="[" u2="&#x100;" k="29" />
+    <hkern u1="[" u2="&#xff;" k="25" />
+    <hkern u1="[" u2="&#xfd;" k="25" />
+    <hkern u1="[" u2="&#xfc;" k="31" />
+    <hkern u1="[" u2="&#xfb;" k="31" />
+    <hkern u1="[" u2="&#xfa;" k="31" />
+    <hkern u1="[" u2="&#xf9;" k="31" />
+    <hkern u1="[" u2="&#xf8;" k="34" />
+    <hkern u1="[" u2="&#xf6;" k="34" />
+    <hkern u1="[" u2="&#xf5;" k="34" />
+    <hkern u1="[" u2="&#xf4;" k="34" />
+    <hkern u1="[" u2="&#xf3;" k="34" />
+    <hkern u1="[" u2="&#xf2;" k="34" />
+    <hkern u1="[" u2="&#xf1;" k="30" />
+    <hkern u1="[" u2="&#xf0;" k="33" />
+    <hkern u1="[" u2="&#xef;" k="-32" />
+    <hkern u1="[" u2="&#xee;" k="-32" />
+    <hkern u1="[" u2="&#xed;" k="-32" />
+    <hkern u1="[" u2="&#xec;" k="-32" />
+    <hkern u1="[" u2="&#xeb;" k="34" />
+    <hkern u1="[" u2="&#xea;" k="34" />
+    <hkern u1="[" u2="&#xe9;" k="34" />
+    <hkern u1="[" u2="&#xe8;" k="34" />
+    <hkern u1="[" u2="&#xe7;" k="34" />
+    <hkern u1="[" u2="&#xe6;" k="32" />
+    <hkern u1="[" u2="&#xe5;" k="32" />
+    <hkern u1="[" u2="&#xe4;" k="32" />
+    <hkern u1="[" u2="&#xe3;" k="32" />
+    <hkern u1="[" u2="&#xe2;" k="32" />
+    <hkern u1="[" u2="&#xe1;" k="32" />
+    <hkern u1="[" u2="&#xe0;" k="32" />
+    <hkern u1="[" u2="&#xde;" k="10" />
+    <hkern u1="[" u2="&#xdc;" k="11" />
+    <hkern u1="[" u2="&#xdb;" k="11" />
+    <hkern u1="[" u2="&#xda;" k="11" />
+    <hkern u1="[" u2="&#xd9;" k="11" />
+    <hkern u1="[" u2="&#xd8;" k="25" />
+    <hkern u1="[" u2="&#xd6;" k="25" />
+    <hkern u1="[" u2="&#xd5;" k="25" />
+    <hkern u1="[" u2="&#xd4;" k="25" />
+    <hkern u1="[" u2="&#xd3;" k="25" />
+    <hkern u1="[" u2="&#xd2;" k="25" />
+    <hkern u1="[" u2="&#xd1;" k="10" />
+    <hkern u1="[" u2="&#xd0;" k="10" />
+    <hkern u1="[" u2="&#xcf;" k="-22" />
+    <hkern u1="[" u2="&#xce;" k="-27" />
+    <hkern u1="[" u2="&#xcd;" k="10" />
+    <hkern u1="[" u2="&#xcc;" k="10" />
+    <hkern u1="[" u2="&#xcb;" k="10" />
+    <hkern u1="[" u2="&#xca;" k="10" />
+    <hkern u1="[" u2="&#xc9;" k="10" />
+    <hkern u1="[" u2="&#xc8;" k="10" />
+    <hkern u1="[" u2="&#xc7;" k="25" />
+    <hkern u1="[" u2="&#xc6;" k="25" />
+    <hkern u1="[" u2="&#xc5;" k="29" />
+    <hkern u1="[" u2="&#xc4;" k="29" />
+    <hkern u1="[" u2="&#xc3;" k="29" />
+    <hkern u1="[" u2="&#xc2;" k="29" />
+    <hkern u1="[" u2="&#xc1;" k="29" />
+    <hkern u1="[" u2="&#xc0;" k="29" />
+    <hkern u1="[" u2="z" k="27" />
+    <hkern u1="[" u2="y" k="25" />
+    <hkern u1="[" u2="x" k="27" />
+    <hkern u1="[" u2="w" k="32" />
+    <hkern u1="[" u2="v" k="36" />
+    <hkern u1="[" u2="u" k="31" />
+    <hkern u1="[" u2="t" k="19" />
+    <hkern u1="[" u2="s" k="32" />
+    <hkern u1="[" u2="r" k="30" />
+    <hkern u1="[" u2="q" k="35" />
+    <hkern u1="[" u2="p" k="30" />
+    <hkern u1="[" u2="o" k="34" />
+    <hkern u1="[" u2="n" k="30" />
+    <hkern u1="[" u2="m" k="30" />
+    <hkern u1="[" u2="j" k="-26" />
+    <hkern u1="[" u2="i" k="-32" />
+    <hkern u1="[" u2="f" k="22" />
+    <hkern u1="[" u2="e" k="34" />
+    <hkern u1="[" u2="d" k="35" />
+    <hkern u1="[" u2="c" k="34" />
+    <hkern u1="[" u2="a" k="32" />
+    <hkern u1="[" u2="U" k="11" />
+    <hkern u1="[" u2="S" k="20" />
+    <hkern u1="[" u2="R" k="10" />
+    <hkern u1="[" u2="Q" k="25" />
+    <hkern u1="[" u2="P" k="10" />
+    <hkern u1="[" u2="O" k="25" />
+    <hkern u1="[" u2="N" k="10" />
+    <hkern u1="[" u2="M" k="10" />
+    <hkern u1="[" u2="L" k="10" />
+    <hkern u1="[" u2="K" k="10" />
+    <hkern u1="[" u2="I" k="10" />
+    <hkern u1="[" u2="H" k="10" />
+    <hkern u1="[" u2="G" k="25" />
+    <hkern u1="[" u2="F" k="10" />
+    <hkern u1="[" u2="E" k="10" />
+    <hkern u1="[" u2="D" k="10" />
+    <hkern u1="[" u2="C" k="25" />
+    <hkern u1="[" u2="B" k="10" />
+    <hkern u1="[" u2="A" k="29" />
     <hkern u1="[" u2="&#x7b;" k="16" />
     <hkern u1="[" u2="&#x39;" k="20" />
     <hkern u1="[" u2="&#x38;" k="23" />
@@ -3495,6 +4328,135 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern u1="[" u2="&#x32;" k="18" />
     <hkern u1="[" u2="&#x31;" k="28" />
     <hkern u1="[" u2="&#x30;" k="24" />
+    <hkern u1="\" g2="f_f_l" k="24" />
+    <hkern u1="\" g2="f_f_i" k="24" />
+    <hkern u1="\" g2="f_f" k="24" />
+    <hkern u1="\" g2="uni006A0301" k="10" />
+    <hkern u1="\" g2="fl" k="24" />
+    <hkern u1="\" g2="fi" k="24" />
+    <hkern u1="\" u2="&#x1ef3;" k="37" />
+    <hkern u1="\" u2="&#x1ef2;" k="83" />
+    <hkern u1="\" u2="&#x1e85;" k="34" />
+    <hkern u1="\" u2="&#x1e84;" k="37" />
+    <hkern u1="\" u2="&#x1e83;" k="34" />
+    <hkern u1="\" u2="&#x1e82;" k="37" />
+    <hkern u1="\" u2="&#x1e81;" k="34" />
+    <hkern u1="\" u2="&#x1e80;" k="37" />
+    <hkern u1="\" u2="&#x45e;" k="38" />
+    <hkern u1="\" u2="&#x454;" k="14" />
+    <hkern u1="\" u2="&#x451;" k="14" />
+    <hkern u1="\" u2="&#x450;" k="14" />
+    <hkern u1="\" u2="&#x443;" k="38" />
+    <hkern u1="\" u2="&#x441;" k="14" />
+    <hkern u1="\" u2="&#x43e;" k="14" />
+    <hkern u1="\" u2="&#x435;" k="14" />
+    <hkern u1="\" u2="&#x421;" k="18" />
+    <hkern u1="\" u2="&#x41e;" k="18" />
+    <hkern u1="\" u2="&#x404;" k="18" />
+    <hkern u1="\" u2="&#x237;" k="10" />
+    <hkern u1="\" u2="&#x21b;" k="30" />
+    <hkern u1="\" u2="&#x21a;" k="66" />
+    <hkern u1="\" u2="&#x1ff;" k="14" />
+    <hkern u1="\" u2="&#x1fe;" k="18" />
+    <hkern u1="\" u2="&#x178;" k="83" />
+    <hkern u1="\" u2="&#x177;" k="37" />
+    <hkern u1="\" u2="&#x176;" k="83" />
+    <hkern u1="\" u2="&#x175;" k="34" />
+    <hkern u1="\" u2="&#x174;" k="37" />
+    <hkern u1="\" u2="&#x173;" k="16" />
+    <hkern u1="\" u2="&#x172;" k="20" />
+    <hkern u1="\" u2="&#x171;" k="16" />
+    <hkern u1="\" u2="&#x170;" k="20" />
+    <hkern u1="\" u2="&#x16f;" k="16" />
+    <hkern u1="\" u2="&#x16e;" k="20" />
+    <hkern u1="\" u2="&#x16d;" k="16" />
+    <hkern u1="\" u2="&#x16c;" k="20" />
+    <hkern u1="\" u2="&#x16b;" k="16" />
+    <hkern u1="\" u2="&#x16a;" k="20" />
+    <hkern u1="\" u2="&#x169;" k="16" />
+    <hkern u1="\" u2="&#x168;" k="20" />
+    <hkern u1="\" u2="&#x167;" k="30" />
+    <hkern u1="\" u2="&#x166;" k="66" />
+    <hkern u1="\" u2="&#x165;" k="30" />
+    <hkern u1="\" u2="&#x164;" k="66" />
+    <hkern u1="\" u2="&#x153;" k="14" />
+    <hkern u1="\" u2="&#x152;" k="18" />
+    <hkern u1="\" u2="&#x151;" k="14" />
+    <hkern u1="\" u2="&#x150;" k="18" />
+    <hkern u1="\" u2="&#x14f;" k="14" />
+    <hkern u1="\" u2="&#x14e;" k="18" />
+    <hkern u1="\" u2="&#x14d;" k="14" />
+    <hkern u1="\" u2="&#x14c;" k="18" />
+    <hkern u1="\" u2="&#x135;" k="10" />
+    <hkern u1="\" u2="&#x122;" k="18" />
+    <hkern u1="\" u2="&#x120;" k="18" />
+    <hkern u1="\" u2="&#x11e;" k="18" />
+    <hkern u1="\" u2="&#x11c;" k="18" />
+    <hkern u1="\" u2="&#x11b;" k="14" />
+    <hkern u1="\" u2="&#x119;" k="14" />
+    <hkern u1="\" u2="&#x117;" k="14" />
+    <hkern u1="\" u2="&#x115;" k="14" />
+    <hkern u1="\" u2="&#x113;" k="14" />
+    <hkern u1="\" u2="&#x111;" k="15" />
+    <hkern u1="\" u2="&#x10f;" k="15" />
+    <hkern u1="\" u2="&#x10d;" k="14" />
+    <hkern u1="\" u2="&#x10c;" k="18" />
+    <hkern u1="\" u2="&#x10b;" k="14" />
+    <hkern u1="\" u2="&#x10a;" k="18" />
+    <hkern u1="\" u2="&#x109;" k="14" />
+    <hkern u1="\" u2="&#x108;" k="18" />
+    <hkern u1="\" u2="&#x107;" k="14" />
+    <hkern u1="\" u2="&#x106;" k="18" />
+    <hkern u1="\" u2="&#xff;" k="37" />
+    <hkern u1="\" u2="&#xfd;" k="37" />
+    <hkern u1="\" u2="&#xfc;" k="16" />
+    <hkern u1="\" u2="&#xfb;" k="16" />
+    <hkern u1="\" u2="&#xfa;" k="16" />
+    <hkern u1="\" u2="&#xf9;" k="16" />
+    <hkern u1="\" u2="&#xf8;" k="14" />
+    <hkern u1="\" u2="&#xf6;" k="14" />
+    <hkern u1="\" u2="&#xf5;" k="14" />
+    <hkern u1="\" u2="&#xf4;" k="14" />
+    <hkern u1="\" u2="&#xf3;" k="14" />
+    <hkern u1="\" u2="&#xf2;" k="14" />
+    <hkern u1="\" u2="&#xf0;" k="14" />
+    <hkern u1="\" u2="&#xeb;" k="14" />
+    <hkern u1="\" u2="&#xea;" k="14" />
+    <hkern u1="\" u2="&#xe9;" k="14" />
+    <hkern u1="\" u2="&#xe8;" k="14" />
+    <hkern u1="\" u2="&#xe7;" k="14" />
+    <hkern u1="\" u2="&#xdd;" k="83" />
+    <hkern u1="\" u2="&#xdc;" k="20" />
+    <hkern u1="\" u2="&#xdb;" k="20" />
+    <hkern u1="\" u2="&#xda;" k="20" />
+    <hkern u1="\" u2="&#xd9;" k="20" />
+    <hkern u1="\" u2="&#xd8;" k="18" />
+    <hkern u1="\" u2="&#xd6;" k="18" />
+    <hkern u1="\" u2="&#xd5;" k="18" />
+    <hkern u1="\" u2="&#xd4;" k="18" />
+    <hkern u1="\" u2="&#xd3;" k="18" />
+    <hkern u1="\" u2="&#xd2;" k="18" />
+    <hkern u1="\" u2="&#xc7;" k="18" />
+    <hkern u1="\" u2="y" k="37" />
+    <hkern u1="\" u2="w" k="34" />
+    <hkern u1="\" u2="v" k="46" />
+    <hkern u1="\" u2="u" k="16" />
+    <hkern u1="\" u2="t" k="30" />
+    <hkern u1="\" u2="q" k="15" />
+    <hkern u1="\" u2="o" k="14" />
+    <hkern u1="\" u2="f" k="24" />
+    <hkern u1="\" u2="e" k="14" />
+    <hkern u1="\" u2="d" k="15" />
+    <hkern u1="\" u2="c" k="14" />
+    <hkern u1="\" u2="Y" k="83" />
+    <hkern u1="\" u2="W" k="37" />
+    <hkern u1="\" u2="V" k="70" />
+    <hkern u1="\" u2="U" k="20" />
+    <hkern u1="\" u2="T" k="66" />
+    <hkern u1="\" u2="Q" k="18" />
+    <hkern u1="\" u2="O" k="18" />
+    <hkern u1="\" u2="G" k="18" />
+    <hkern u1="\" u2="C" k="18" />
     <hkern u1="\" u2="&#x201d;" k="70" />
     <hkern u1="\" u2="&#x2019;" k="70" />
     <hkern u1="\" u2="\" k="194" />
@@ -3506,14 +4468,678 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern u1="\" u2="&#x30;" k="16" />
     <hkern u1="\" u2="&#x27;" k="68" />
     <hkern u1="\" u2="&#x22;" k="68" />
+    <hkern u1="a" u2="&#x2122;" k="26" />
+    <hkern u1="a" u2="&#x17f;" k="5" />
+    <hkern u1="a" u2="&#xba;" k="15" />
+    <hkern u1="a" u2="&#xaa;" k="12" />
+    <hkern u1="a" u2="&#x7d;" k="33" />
+    <hkern u1="a" u2="v" k="8" />
+    <hkern u1="a" u2="]" k="32" />
+    <hkern u1="a" u2="\" k="44" />
+    <hkern u1="a" u2="V" k="48" />
+    <hkern u1="a" u2="&#x3f;" k="14" />
+    <hkern u1="a" u2="&#x2a;" k="19" />
+    <hkern u1="a" u2="&#x29;" k="42" />
     <hkern u1="b" u2="&#x338;" k="15" />
+    <hkern u1="b" u2="&#x2122;" k="33" />
+    <hkern u1="b" u2="&#x17f;" k="8" />
+    <hkern u1="b" u2="&#xba;" k="22" />
+    <hkern u1="b" u2="&#xaa;" k="18" />
+    <hkern u1="b" u2="&#x7d;" k="38" />
+    <hkern u1="b" u2="x" k="12" />
+    <hkern u1="b" u2="v" k="18" />
+    <hkern u1="b" u2="]" k="35" />
+    <hkern u1="b" u2="\" k="47" />
+    <hkern u1="b" u2="X" k="23" />
+    <hkern u1="b" u2="V" k="51" />
+    <hkern u1="b" u2="&#x3f;" k="19" />
+    <hkern u1="b" u2="&#x2a;" k="25" />
+    <hkern u1="b" u2="&#x29;" k="47" />
+    <hkern u1="c" u2="&#x2122;" k="25" />
+    <hkern u1="c" u2="&#xba;" k="14" />
+    <hkern u1="c" u2="&#xaa;" k="9" />
+    <hkern u1="c" u2="&#x7d;" k="34" />
+    <hkern u1="c" u2="v" k="13" />
+    <hkern u1="c" u2="]" k="32" />
+    <hkern u1="c" u2="\" k="40" />
+    <hkern u1="c" u2="X" k="10" />
+    <hkern u1="c" u2="V" k="45" />
+    <hkern u1="c" u2="&#x2a;" k="18" />
+    <hkern u1="c" u2="&#x29;" k="44" />
+    <hkern u1="e" u2="&#x2122;" k="28" />
+    <hkern u1="e" u2="&#x17f;" k="5" />
+    <hkern u1="e" u2="&#xba;" k="17" />
+    <hkern u1="e" u2="&#xaa;" k="14" />
+    <hkern u1="e" u2="&#x7d;" k="35" />
+    <hkern u1="e" u2="x" k="8" />
+    <hkern u1="e" u2="v" k="17" />
+    <hkern u1="e" u2="]" k="32" />
+    <hkern u1="e" u2="\" k="43" />
+    <hkern u1="e" u2="X" k="15" />
+    <hkern u1="e" u2="V" k="54" />
+    <hkern u1="e" u2="&#x3f;" k="14" />
+    <hkern u1="e" u2="&#x2a;" k="21" />
+    <hkern u1="e" u2="&#x29;" k="44" />
     <hkern u1="f" u2="&#x338;" k="36" />
+    <hkern u1="f" u2="&#xf0;" k="33" />
+    <hkern u1="f" u2="&#x7d;" k="-7" />
+    <hkern u1="f" u2="]" k="-7" />
+    <hkern u1="f" u2="&#x29;" k="-9" />
+    <hkern u1="f" u2="&#x20;" k="23" />
+    <hkern u1="g" u2="&#x2122;" k="16" />
+    <hkern u1="g" u2="&#x7d;" k="30" />
+    <hkern u1="g" u2="]" k="29" />
+    <hkern u1="g" u2="\" k="32" />
+    <hkern u1="g" u2="V" k="41" />
+    <hkern u1="g" u2="&#x2a;" k="10" />
+    <hkern u1="g" u2="&#x29;" k="39" />
+    <hkern u1="h" u2="&#x2122;" k="30" />
+    <hkern u1="h" u2="&#x17f;" k="9" />
+    <hkern u1="h" u2="&#xba;" k="19" />
+    <hkern u1="h" u2="&#xaa;" k="15" />
+    <hkern u1="h" u2="&#x7d;" k="34" />
+    <hkern u1="h" u2="v" k="14" />
+    <hkern u1="h" u2="]" k="32" />
+    <hkern u1="h" u2="\" k="47" />
+    <hkern u1="h" u2="V" k="49" />
+    <hkern u1="h" u2="&#x3f;" k="18" />
+    <hkern u1="h" u2="&#x2a;" k="23" />
+    <hkern u1="h" u2="&#x29;" k="42" />
+    <hkern u1="i" u2="&#x2122;" k="-28" />
+    <hkern u1="i" u2="&#x7d;" k="-32" />
+    <hkern u1="i" u2="]" k="-32" />
+    <hkern u1="i" u2="\" k="-24" />
+    <hkern u1="i" u2="&#x3f;" k="-24" />
+    <hkern u1="i" u2="&#x2a;" k="-19" />
+    <hkern u1="i" u2="&#x29;" k="-33" />
+    <hkern u1="j" u2="&#x2122;" k="-28" />
+    <hkern u1="j" u2="&#x7d;" k="-32" />
+    <hkern u1="j" u2="]" k="-32" />
+    <hkern u1="j" u2="\" k="-24" />
+    <hkern u1="j" u2="&#x3f;" k="-24" />
+    <hkern u1="j" u2="&#x2a;" k="-19" />
+    <hkern u1="j" u2="&#x29;" k="-33" />
+    <hkern u1="k" u2="&#x2122;" k="17" />
+    <hkern u1="k" u2="&#xf0;" k="29" />
+    <hkern u1="k" u2="&#x7d;" k="24" />
+    <hkern u1="k" u2="]" k="26" />
+    <hkern u1="k" u2="\" k="27" />
+    <hkern u1="k" u2="V" k="16" />
+    <hkern u1="k" u2="&#x2a;" k="8" />
+    <hkern u1="k" u2="&#x29;" k="31" />
+    <hkern u1="k" u2="&#x20;" k="12" />
+    <hkern u1="l" u2="&#xb7;" k="41" />
+    <hkern u1="m" u2="&#x2122;" k="30" />
+    <hkern u1="m" u2="&#x17f;" k="9" />
+    <hkern u1="m" u2="&#xba;" k="19" />
+    <hkern u1="m" u2="&#xaa;" k="15" />
+    <hkern u1="m" u2="&#x7d;" k="34" />
+    <hkern u1="m" u2="v" k="14" />
+    <hkern u1="m" u2="]" k="32" />
+    <hkern u1="m" u2="\" k="47" />
+    <hkern u1="m" u2="V" k="49" />
+    <hkern u1="m" u2="&#x3f;" k="18" />
+    <hkern u1="m" u2="&#x2a;" k="23" />
+    <hkern u1="m" u2="&#x29;" k="42" />
+    <hkern u1="n" u2="&#x2122;" k="30" />
+    <hkern u1="n" u2="&#x17f;" k="9" />
+    <hkern u1="n" u2="&#xba;" k="19" />
+    <hkern u1="n" u2="&#xaa;" k="15" />
+    <hkern u1="n" u2="&#x7d;" k="34" />
+    <hkern u1="n" u2="v" k="14" />
+    <hkern u1="n" u2="]" k="32" />
+    <hkern u1="n" u2="\" k="47" />
+    <hkern u1="n" u2="V" k="49" />
+    <hkern u1="n" u2="&#x3f;" k="18" />
+    <hkern u1="n" u2="&#x2a;" k="23" />
+    <hkern u1="n" u2="&#x29;" k="42" />
     <hkern u1="o" u2="&#x338;" k="14" />
+    <hkern u1="o" u2="&#x2122;" k="29" />
+    <hkern u1="o" u2="&#x17f;" k="7" />
+    <hkern u1="o" u2="&#xba;" k="18" />
+    <hkern u1="o" u2="&#xaa;" k="15" />
+    <hkern u1="o" u2="&#x7d;" k="37" />
+    <hkern u1="o" u2="x" k="11" />
+    <hkern u1="o" u2="v" k="18" />
+    <hkern u1="o" u2="]" k="34" />
+    <hkern u1="o" u2="\" k="46" />
+    <hkern u1="o" u2="X" k="23" />
+    <hkern u1="o" u2="V" k="51" />
+    <hkern u1="o" u2="&#x3f;" k="18" />
+    <hkern u1="o" u2="&#x2a;" k="22" />
+    <hkern u1="o" u2="&#x29;" k="47" />
     <hkern u1="p" u2="&#x338;" k="15" />
+    <hkern u1="p" u2="&#x2122;" k="33" />
+    <hkern u1="p" u2="&#x17f;" k="8" />
+    <hkern u1="p" u2="&#xba;" k="22" />
+    <hkern u1="p" u2="&#xaa;" k="18" />
+    <hkern u1="p" u2="&#x7d;" k="38" />
+    <hkern u1="p" u2="x" k="12" />
+    <hkern u1="p" u2="v" k="18" />
+    <hkern u1="p" u2="]" k="35" />
+    <hkern u1="p" u2="\" k="47" />
+    <hkern u1="p" u2="X" k="23" />
+    <hkern u1="p" u2="V" k="51" />
+    <hkern u1="p" u2="&#x3f;" k="19" />
+    <hkern u1="p" u2="&#x2a;" k="25" />
+    <hkern u1="p" u2="&#x29;" k="47" />
+    <hkern u1="q" u2="&#x2122;" k="16" />
+    <hkern u1="q" u2="&#x7d;" k="30" />
+    <hkern u1="q" u2="]" k="29" />
+    <hkern u1="q" u2="\" k="32" />
+    <hkern u1="q" u2="V" k="41" />
+    <hkern u1="q" u2="&#x2a;" k="10" />
+    <hkern u1="q" u2="&#x29;" k="39" />
     <hkern u1="r" u2="&#x338;" k="45" />
+    <hkern u1="r" u2="&#xf0;" k="37" />
+    <hkern u1="r" u2="&#x7d;" k="28" />
+    <hkern u1="r" u2="]" k="28" />
+    <hkern u1="r" u2="X" k="29" />
+    <hkern u1="r" u2="V" k="18" />
+    <hkern u1="r" u2="&#x29;" k="39" />
+    <hkern u1="r" u2="&#x20;" k="24" />
+    <hkern u1="s" u2="&#x2122;" k="26" />
+    <hkern u1="s" u2="&#xba;" k="13" />
+    <hkern u1="s" u2="&#xaa;" k="9" />
+    <hkern u1="s" u2="&#x7d;" k="32" />
+    <hkern u1="s" u2="v" k="17" />
+    <hkern u1="s" u2="]" k="31" />
+    <hkern u1="s" u2="\" k="41" />
+    <hkern u1="s" u2="X" k="6" />
+    <hkern u1="s" u2="V" k="51" />
+    <hkern u1="s" u2="&#x2a;" k="19" />
+    <hkern u1="s" u2="&#x29;" k="43" />
+    <hkern u1="t" u2="&#x7d;" k="15" />
+    <hkern u1="t" u2="]" k="16" />
+    <hkern u1="t" u2="\" k="16" />
+    <hkern u1="t" u2="V" k="13" />
+    <hkern u1="t" u2="&#x29;" k="21" />
+    <hkern u1="u" u2="&#x2122;" k="16" />
+    <hkern u1="u" u2="&#x7d;" k="30" />
+    <hkern u1="u" u2="]" k="29" />
+    <hkern u1="u" u2="\" k="32" />
+    <hkern u1="u" u2="V" k="41" />
+    <hkern u1="u" u2="&#x2a;" k="10" />
+    <hkern u1="u" u2="&#x29;" k="39" />
     <hkern u1="v" u2="&#x338;" k="46" />
+    <hkern u1="v" g2="uni004A0301" k="33" />
+    <hkern u1="v" u2="&#x2122;" k="8" />
+    <hkern u1="v" u2="&#x2039;" k="15" />
+    <hkern u1="v" u2="&#x2026;" k="57" />
+    <hkern u1="v" u2="&#x201e;" k="57" />
+    <hkern u1="v" u2="&#x201a;" k="57" />
+    <hkern u1="v" u2="&#x2014;" k="23" />
+    <hkern u1="v" u2="&#x2013;" k="23" />
+    <hkern u1="v" u2="&#x1ef2;" k="55" />
+    <hkern u1="v" u2="&#x21a;" k="97" />
+    <hkern u1="v" u2="&#x219;" k="16" />
+    <hkern u1="v" u2="&#x1ff;" k="18" />
+    <hkern u1="v" u2="&#x1fd;" k="19" />
+    <hkern u1="v" u2="&#x17d;" k="43" />
+    <hkern u1="v" u2="&#x17b;" k="43" />
+    <hkern u1="v" u2="&#x179;" k="43" />
+    <hkern u1="v" u2="&#x178;" k="55" />
+    <hkern u1="v" u2="&#x176;" k="55" />
+    <hkern u1="v" u2="&#x166;" k="97" />
+    <hkern u1="v" u2="&#x164;" k="97" />
+    <hkern u1="v" u2="&#x161;" k="16" />
+    <hkern u1="v" u2="&#x15f;" k="16" />
+    <hkern u1="v" u2="&#x15d;" k="16" />
+    <hkern u1="v" u2="&#x15b;" k="16" />
+    <hkern u1="v" u2="&#x153;" k="18" />
+    <hkern u1="v" u2="&#x151;" k="18" />
+    <hkern u1="v" u2="&#x14f;" k="18" />
+    <hkern u1="v" u2="&#x14d;" k="18" />
+    <hkern u1="v" u2="&#x134;" k="33" />
+    <hkern u1="v" u2="&#x123;" k="18" />
+    <hkern u1="v" u2="&#x121;" k="18" />
+    <hkern u1="v" u2="&#x11f;" k="18" />
+    <hkern u1="v" u2="&#x11d;" k="18" />
+    <hkern u1="v" u2="&#x11b;" k="18" />
+    <hkern u1="v" u2="&#x119;" k="18" />
+    <hkern u1="v" u2="&#x117;" k="18" />
+    <hkern u1="v" u2="&#x115;" k="18" />
+    <hkern u1="v" u2="&#x113;" k="18" />
+    <hkern u1="v" u2="&#x111;" k="18" />
+    <hkern u1="v" u2="&#x10f;" k="18" />
+    <hkern u1="v" u2="&#x10d;" k="18" />
+    <hkern u1="v" u2="&#x10b;" k="18" />
+    <hkern u1="v" u2="&#x109;" k="18" />
+    <hkern u1="v" u2="&#x107;" k="18" />
+    <hkern u1="v" u2="&#x105;" k="19" />
+    <hkern u1="v" u2="&#x104;" k="28" />
+    <hkern u1="v" u2="&#x103;" k="19" />
+    <hkern u1="v" u2="&#x102;" k="28" />
+    <hkern u1="v" u2="&#x101;" k="19" />
+    <hkern u1="v" u2="&#x100;" k="28" />
+    <hkern u1="v" u2="&#xf8;" k="18" />
+    <hkern u1="v" u2="&#xf6;" k="18" />
+    <hkern u1="v" u2="&#xf5;" k="18" />
+    <hkern u1="v" u2="&#xf4;" k="18" />
+    <hkern u1="v" u2="&#xf3;" k="18" />
+    <hkern u1="v" u2="&#xf2;" k="18" />
+    <hkern u1="v" u2="&#xf0;" k="24" />
+    <hkern u1="v" u2="&#xeb;" k="18" />
+    <hkern u1="v" u2="&#xea;" k="18" />
+    <hkern u1="v" u2="&#xe9;" k="18" />
+    <hkern u1="v" u2="&#xe8;" k="18" />
+    <hkern u1="v" u2="&#xe7;" k="18" />
+    <hkern u1="v" u2="&#xe6;" k="19" />
+    <hkern u1="v" u2="&#xe5;" k="19" />
+    <hkern u1="v" u2="&#xe4;" k="19" />
+    <hkern u1="v" u2="&#xe3;" k="19" />
+    <hkern u1="v" u2="&#xe2;" k="19" />
+    <hkern u1="v" u2="&#xe1;" k="19" />
+    <hkern u1="v" u2="&#xe0;" k="19" />
+    <hkern u1="v" u2="&#xdd;" k="55" />
+    <hkern u1="v" u2="&#xc5;" k="28" />
+    <hkern u1="v" u2="&#xc4;" k="28" />
+    <hkern u1="v" u2="&#xc3;" k="28" />
+    <hkern u1="v" u2="&#xc2;" k="28" />
+    <hkern u1="v" u2="&#xc1;" k="28" />
+    <hkern u1="v" u2="&#xc0;" k="28" />
+    <hkern u1="v" u2="&#xab;" k="15" />
+    <hkern u1="v" u2="&#x7d;" k="37" />
+    <hkern u1="v" u2="s" k="16" />
+    <hkern u1="v" u2="q" k="18" />
+    <hkern u1="v" u2="o" k="18" />
+    <hkern u1="v" u2="g" k="18" />
+    <hkern u1="v" u2="e" k="18" />
+    <hkern u1="v" u2="d" k="18" />
+    <hkern u1="v" u2="c" k="18" />
+    <hkern u1="v" u2="a" k="19" />
+    <hkern u1="v" u2="]" k="36" />
+    <hkern u1="v" u2="\" k="26" />
+    <hkern u1="v" u2="Z" k="43" />
+    <hkern u1="v" u2="Y" k="55" />
+    <hkern u1="v" u2="X" k="38" />
+    <hkern u1="v" u2="V" k="18" />
+    <hkern u1="v" u2="T" k="97" />
+    <hkern u1="v" u2="J" k="33" />
+    <hkern u1="v" u2="A" k="28" />
+    <hkern u1="v" u2="&#x2f;" k="46" />
+    <hkern u1="v" u2="&#x2e;" k="57" />
+    <hkern u1="v" u2="&#x2d;" k="23" />
+    <hkern u1="v" u2="&#x2c;" k="57" />
+    <hkern u1="v" u2="&#x29;" k="48" />
+    <hkern u1="v" u2="&#x26;" k="11" />
+    <hkern u1="v" u2="&#x20;" k="27" />
     <hkern u1="w" u2="&#x338;" k="34" />
+    <hkern u1="w" u2="&#xf0;" k="17" />
+    <hkern u1="w" u2="&#x7d;" k="32" />
+    <hkern u1="w" u2="]" k="32" />
+    <hkern u1="w" u2="\" k="25" />
+    <hkern u1="w" u2="X" k="29" />
+    <hkern u1="w" u2="V" k="17" />
+    <hkern u1="w" u2="&#x29;" k="43" />
+    <hkern u1="w" u2="&#x20;" k="23" />
+    <hkern u1="x" g2="uni004A0301" k="13" />
+    <hkern u1="x" u2="&#x2122;" k="10" />
+    <hkern u1="x" u2="&#x2039;" k="19" />
+    <hkern u1="x" u2="&#x2014;" k="32" />
+    <hkern u1="x" u2="&#x2013;" k="32" />
+    <hkern u1="x" u2="&#x1ef2;" k="55" />
+    <hkern u1="x" u2="&#x21a;" k="86" />
+    <hkern u1="x" u2="&#x1ff;" k="12" />
+    <hkern u1="x" u2="&#x1fd;" k="4" />
+    <hkern u1="x" u2="&#x178;" k="55" />
+    <hkern u1="x" u2="&#x176;" k="55" />
+    <hkern u1="x" u2="&#x166;" k="86" />
+    <hkern u1="x" u2="&#x164;" k="86" />
+    <hkern u1="x" u2="&#x153;" k="12" />
+    <hkern u1="x" u2="&#x151;" k="12" />
+    <hkern u1="x" u2="&#x14f;" k="12" />
+    <hkern u1="x" u2="&#x14d;" k="12" />
+    <hkern u1="x" u2="&#x134;" k="13" />
+    <hkern u1="x" u2="&#x123;" k="12" />
+    <hkern u1="x" u2="&#x121;" k="12" />
+    <hkern u1="x" u2="&#x11f;" k="12" />
+    <hkern u1="x" u2="&#x11d;" k="12" />
+    <hkern u1="x" u2="&#x11b;" k="12" />
+    <hkern u1="x" u2="&#x119;" k="12" />
+    <hkern u1="x" u2="&#x117;" k="12" />
+    <hkern u1="x" u2="&#x115;" k="12" />
+    <hkern u1="x" u2="&#x113;" k="12" />
+    <hkern u1="x" u2="&#x111;" k="12" />
+    <hkern u1="x" u2="&#x10f;" k="12" />
+    <hkern u1="x" u2="&#x10d;" k="12" />
+    <hkern u1="x" u2="&#x10b;" k="12" />
+    <hkern u1="x" u2="&#x109;" k="12" />
+    <hkern u1="x" u2="&#x107;" k="12" />
+    <hkern u1="x" u2="&#x105;" k="4" />
+    <hkern u1="x" u2="&#x103;" k="4" />
+    <hkern u1="x" u2="&#x101;" k="4" />
+    <hkern u1="x" u2="&#xf8;" k="12" />
+    <hkern u1="x" u2="&#xf6;" k="12" />
+    <hkern u1="x" u2="&#xf5;" k="12" />
+    <hkern u1="x" u2="&#xf4;" k="12" />
+    <hkern u1="x" u2="&#xf3;" k="12" />
+    <hkern u1="x" u2="&#xf2;" k="12" />
+    <hkern u1="x" u2="&#xf0;" k="16" />
+    <hkern u1="x" u2="&#xeb;" k="12" />
+    <hkern u1="x" u2="&#xea;" k="12" />
+    <hkern u1="x" u2="&#xe9;" k="12" />
+    <hkern u1="x" u2="&#xe8;" k="12" />
+    <hkern u1="x" u2="&#xe7;" k="12" />
+    <hkern u1="x" u2="&#xe6;" k="4" />
+    <hkern u1="x" u2="&#xe5;" k="4" />
+    <hkern u1="x" u2="&#xe4;" k="4" />
+    <hkern u1="x" u2="&#xe3;" k="4" />
+    <hkern u1="x" u2="&#xe2;" k="4" />
+    <hkern u1="x" u2="&#xe1;" k="4" />
+    <hkern u1="x" u2="&#xe0;" k="4" />
+    <hkern u1="x" u2="&#xdd;" k="55" />
+    <hkern u1="x" u2="&#xab;" k="19" />
+    <hkern u1="x" u2="&#x7d;" k="25" />
+    <hkern u1="x" u2="q" k="12" />
+    <hkern u1="x" u2="o" k="12" />
+    <hkern u1="x" u2="g" k="12" />
+    <hkern u1="x" u2="e" k="12" />
+    <hkern u1="x" u2="d" k="12" />
+    <hkern u1="x" u2="c" k="12" />
+    <hkern u1="x" u2="a" k="4" />
+    <hkern u1="x" u2="]" k="27" />
+    <hkern u1="x" u2="\" k="24" />
+    <hkern u1="x" u2="Y" k="55" />
+    <hkern u1="x" u2="V" k="22" />
+    <hkern u1="x" u2="T" k="86" />
+    <hkern u1="x" u2="J" k="13" />
+    <hkern u1="x" u2="&#x2d;" k="32" />
+    <hkern u1="x" u2="&#x29;" k="33" />
     <hkern u1="y" u2="&#x338;" k="46" />
+    <hkern u1="y" u2="&#xf0;" k="25" />
+    <hkern u1="y" u2="&#x7d;" k="35" />
+    <hkern u1="y" u2="]" k="34" />
+    <hkern u1="y" u2="\" k="24" />
+    <hkern u1="y" u2="X" k="39" />
+    <hkern u1="y" u2="V" k="17" />
+    <hkern u1="y" u2="&#x29;" k="45" />
+    <hkern u1="y" u2="&#x26;" k="10" />
+    <hkern u1="y" u2="&#x20;" k="27" />
+    <hkern u1="z" u2="&#x2122;" k="15" />
+    <hkern u1="z" u2="&#xf0;" k="9" />
+    <hkern u1="z" u2="&#x7d;" k="25" />
+    <hkern u1="z" u2="]" k="27" />
+    <hkern u1="z" u2="\" k="28" />
+    <hkern u1="z" u2="V" k="29" />
+    <hkern u1="z" u2="&#x29;" k="33" />
+    <hkern u1="&#x7b;" g2="f_f_l" k="22" />
+    <hkern u1="&#x7b;" g2="f_f_i" k="22" />
+    <hkern u1="&#x7b;" g2="f_f" k="22" />
+    <hkern u1="&#x7b;" g2="fl" k="22" />
+    <hkern u1="&#x7b;" g2="fi" k="22" />
+    <hkern u1="&#x7b;" u2="&#x1ef3;" k="25" />
+    <hkern u1="&#x7b;" u2="&#x1e85;" k="32" />
+    <hkern u1="&#x7b;" u2="&#x1e83;" k="32" />
+    <hkern u1="&#x7b;" u2="&#x1e81;" k="32" />
+    <hkern u1="&#x7b;" u2="&#x45f;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x45d;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x45c;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x45a;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x459;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x454;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x453;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x451;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x450;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x44e;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x44c;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x44b;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x449;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x448;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x446;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x441;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x440;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x43f;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x43e;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x43d;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x43c;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x43b;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x43a;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x439;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x438;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x435;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x433;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x432;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x42e;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x42c;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x42b;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x429;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x428;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x426;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x421;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x420;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x41f;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x41e;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x41d;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x41c;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x41b;" k="16" />
+    <hkern u1="&#x7b;" u2="&#x41a;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x419;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x418;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x415;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x413;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x412;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x411;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x40f;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x40d;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x40c;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x40a;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x409;" k="16" />
+    <hkern u1="&#x7b;" u2="&#x407;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x406;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x404;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x403;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x401;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x400;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x21b;" k="19" />
+    <hkern u1="&#x7b;" u2="&#x219;" k="33" />
+    <hkern u1="&#x7b;" u2="&#x218;" k="20" />
+    <hkern u1="&#x7b;" u2="&#x1ff;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x1fe;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x1fd;" k="32" />
+    <hkern u1="&#x7b;" u2="&#x1fc;" k="23" />
+    <hkern u1="&#x7b;" u2="&#x17e;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x17c;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x17a;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x177;" k="25" />
+    <hkern u1="&#x7b;" u2="&#x175;" k="32" />
+    <hkern u1="&#x7b;" u2="&#x173;" k="33" />
+    <hkern u1="&#x7b;" u2="&#x172;" k="11" />
+    <hkern u1="&#x7b;" u2="&#x171;" k="33" />
+    <hkern u1="&#x7b;" u2="&#x170;" k="11" />
+    <hkern u1="&#x7b;" u2="&#x16f;" k="33" />
+    <hkern u1="&#x7b;" u2="&#x16e;" k="11" />
+    <hkern u1="&#x7b;" u2="&#x16d;" k="33" />
+    <hkern u1="&#x7b;" u2="&#x16c;" k="11" />
+    <hkern u1="&#x7b;" u2="&#x16b;" k="33" />
+    <hkern u1="&#x7b;" u2="&#x16a;" k="11" />
+    <hkern u1="&#x7b;" u2="&#x169;" k="33" />
+    <hkern u1="&#x7b;" u2="&#x168;" k="11" />
+    <hkern u1="&#x7b;" u2="&#x167;" k="19" />
+    <hkern u1="&#x7b;" u2="&#x165;" k="19" />
+    <hkern u1="&#x7b;" u2="&#x161;" k="33" />
+    <hkern u1="&#x7b;" u2="&#x160;" k="20" />
+    <hkern u1="&#x7b;" u2="&#x15f;" k="33" />
+    <hkern u1="&#x7b;" u2="&#x15e;" k="20" />
+    <hkern u1="&#x7b;" u2="&#x15d;" k="33" />
+    <hkern u1="&#x7b;" u2="&#x15c;" k="20" />
+    <hkern u1="&#x7b;" u2="&#x15b;" k="33" />
+    <hkern u1="&#x7b;" u2="&#x15a;" k="20" />
+    <hkern u1="&#x7b;" u2="&#x159;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x158;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x157;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x156;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x155;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x154;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x153;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x152;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x151;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x150;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x14f;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x14e;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x14d;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x14c;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x14b;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x14a;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x149;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x148;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x147;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x146;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x145;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x144;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x143;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x141;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x13f;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x13d;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x13b;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x139;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x138;" k="31" />
+    <hkern u1="&#x7b;" u2="&#x136;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x133;" k="-32" />
+    <hkern u1="&#x7b;" u2="&#x132;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x131;" k="-32" />
+    <hkern u1="&#x7b;" u2="&#x130;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x12f;" k="-32" />
+    <hkern u1="&#x7b;" u2="&#x12e;" k="2" />
+    <hkern u1="&#x7b;" u2="&#x12d;" k="-32" />
+    <hkern u1="&#x7b;" u2="&#x12c;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x12b;" k="-32" />
+    <hkern u1="&#x7b;" u2="&#x12a;" k="-11" />
+    <hkern u1="&#x7b;" u2="&#x129;" k="-32" />
+    <hkern u1="&#x7b;" u2="&#x128;" k="-16" />
+    <hkern u1="&#x7b;" u2="&#x126;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x124;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x122;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x120;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x11e;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x11c;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x11b;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x11a;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x119;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x118;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x117;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x116;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x115;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x114;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x113;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x112;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x111;" k="38" />
+    <hkern u1="&#x7b;" u2="&#x110;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x10f;" k="38" />
+    <hkern u1="&#x7b;" u2="&#x10e;" k="10" />
+    <hkern u1="&#x7b;" u2="&#x10d;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x10c;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x10b;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x10a;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x109;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x108;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x107;" k="37" />
+    <hkern u1="&#x7b;" u2="&#x106;" k="26" />
+    <hkern u1="&#x7b;" u2="&#x105;" k="32" />
+    <hkern u1="&#x7b;" u2="&#x104;" k="28" />
+    <hkern u1="&#x7b;" u2="&#x103;" k="32" />
+    <hkern u1="&#x7b;" u2="&#x102;" k="28" />
+    <hkern u1="&#x7b;" u2="&#x101;" k="32" />
+    <hkern u1="&#x7b;" u2="&#x100;" k="28" />
+    <hkern u1="&#x7b;" u2="&#xff;" k="25" />
+    <hkern u1="&#x7b;" u2="&#xfd;" k="25" />
+    <hkern u1="&#x7b;" u2="&#xfc;" k="33" />
+    <hkern u1="&#x7b;" u2="&#xfb;" k="33" />
+    <hkern u1="&#x7b;" u2="&#xfa;" k="33" />
+    <hkern u1="&#x7b;" u2="&#xf9;" k="33" />
+    <hkern u1="&#x7b;" u2="&#xf8;" k="37" />
+    <hkern u1="&#x7b;" u2="&#xf6;" k="37" />
+    <hkern u1="&#x7b;" u2="&#xf5;" k="37" />
+    <hkern u1="&#x7b;" u2="&#xf4;" k="37" />
+    <hkern u1="&#x7b;" u2="&#xf3;" k="37" />
+    <hkern u1="&#x7b;" u2="&#xf2;" k="37" />
+    <hkern u1="&#x7b;" u2="&#xf1;" k="31" />
+    <hkern u1="&#x7b;" u2="&#xf0;" k="36" />
+    <hkern u1="&#x7b;" u2="&#xef;" k="-32" />
+    <hkern u1="&#x7b;" u2="&#xee;" k="-32" />
+    <hkern u1="&#x7b;" u2="&#xed;" k="-32" />
+    <hkern u1="&#x7b;" u2="&#xec;" k="-32" />
+    <hkern u1="&#x7b;" u2="&#xeb;" k="37" />
+    <hkern u1="&#x7b;" u2="&#xea;" k="37" />
+    <hkern u1="&#x7b;" u2="&#xe9;" k="37" />
+    <hkern u1="&#x7b;" u2="&#xe8;" k="37" />
+    <hkern u1="&#x7b;" u2="&#xe7;" k="37" />
+    <hkern u1="&#x7b;" u2="&#xe6;" k="32" />
+    <hkern u1="&#x7b;" u2="&#xe5;" k="32" />
+    <hkern u1="&#x7b;" u2="&#xe4;" k="32" />
+    <hkern u1="&#x7b;" u2="&#xe3;" k="32" />
+    <hkern u1="&#x7b;" u2="&#xe2;" k="32" />
+    <hkern u1="&#x7b;" u2="&#xe1;" k="32" />
+    <hkern u1="&#x7b;" u2="&#xe0;" k="32" />
+    <hkern u1="&#x7b;" u2="&#xde;" k="10" />
+    <hkern u1="&#x7b;" u2="&#xdc;" k="11" />
+    <hkern u1="&#x7b;" u2="&#xdb;" k="11" />
+    <hkern u1="&#x7b;" u2="&#xda;" k="11" />
+    <hkern u1="&#x7b;" u2="&#xd9;" k="11" />
+    <hkern u1="&#x7b;" u2="&#xd8;" k="26" />
+    <hkern u1="&#x7b;" u2="&#xd6;" k="26" />
+    <hkern u1="&#x7b;" u2="&#xd5;" k="26" />
+    <hkern u1="&#x7b;" u2="&#xd4;" k="26" />
+    <hkern u1="&#x7b;" u2="&#xd3;" k="26" />
+    <hkern u1="&#x7b;" u2="&#xd2;" k="26" />
+    <hkern u1="&#x7b;" u2="&#xd1;" k="10" />
+    <hkern u1="&#x7b;" u2="&#xd0;" k="10" />
+    <hkern u1="&#x7b;" u2="&#xcf;" k="-23" />
+    <hkern u1="&#x7b;" u2="&#xce;" k="-28" />
+    <hkern u1="&#x7b;" u2="&#xcd;" k="10" />
+    <hkern u1="&#x7b;" u2="&#xcc;" k="10" />
+    <hkern u1="&#x7b;" u2="&#xcb;" k="10" />
+    <hkern u1="&#x7b;" u2="&#xca;" k="10" />
+    <hkern u1="&#x7b;" u2="&#xc9;" k="10" />
+    <hkern u1="&#x7b;" u2="&#xc8;" k="10" />
+    <hkern u1="&#x7b;" u2="&#xc7;" k="26" />
+    <hkern u1="&#x7b;" u2="&#xc6;" k="23" />
+    <hkern u1="&#x7b;" u2="&#xc5;" k="28" />
+    <hkern u1="&#x7b;" u2="&#xc4;" k="28" />
+    <hkern u1="&#x7b;" u2="&#xc3;" k="28" />
+    <hkern u1="&#x7b;" u2="&#xc2;" k="28" />
+    <hkern u1="&#x7b;" u2="&#xc1;" k="28" />
+    <hkern u1="&#x7b;" u2="&#xc0;" k="28" />
+    <hkern u1="&#x7b;" u2="z" k="26" />
+    <hkern u1="&#x7b;" u2="y" k="25" />
+    <hkern u1="&#x7b;" u2="x" k="25" />
+    <hkern u1="&#x7b;" u2="w" k="32" />
+    <hkern u1="&#x7b;" u2="v" k="37" />
+    <hkern u1="&#x7b;" u2="u" k="33" />
+    <hkern u1="&#x7b;" u2="t" k="19" />
+    <hkern u1="&#x7b;" u2="s" k="33" />
+    <hkern u1="&#x7b;" u2="r" k="31" />
+    <hkern u1="&#x7b;" u2="q" k="38" />
+    <hkern u1="&#x7b;" u2="p" k="31" />
+    <hkern u1="&#x7b;" u2="o" k="37" />
+    <hkern u1="&#x7b;" u2="n" k="31" />
+    <hkern u1="&#x7b;" u2="m" k="31" />
+    <hkern u1="&#x7b;" u2="j" k="-27" />
+    <hkern u1="&#x7b;" u2="i" k="-32" />
+    <hkern u1="&#x7b;" u2="f" k="22" />
+    <hkern u1="&#x7b;" u2="e" k="37" />
+    <hkern u1="&#x7b;" u2="d" k="38" />
+    <hkern u1="&#x7b;" u2="c" k="37" />
+    <hkern u1="&#x7b;" u2="a" k="32" />
+    <hkern u1="&#x7b;" u2="U" k="11" />
+    <hkern u1="&#x7b;" u2="S" k="20" />
+    <hkern u1="&#x7b;" u2="R" k="10" />
+    <hkern u1="&#x7b;" u2="Q" k="26" />
+    <hkern u1="&#x7b;" u2="P" k="10" />
+    <hkern u1="&#x7b;" u2="O" k="26" />
+    <hkern u1="&#x7b;" u2="N" k="10" />
+    <hkern u1="&#x7b;" u2="M" k="10" />
+    <hkern u1="&#x7b;" u2="L" k="10" />
+    <hkern u1="&#x7b;" u2="K" k="10" />
+    <hkern u1="&#x7b;" u2="I" k="10" />
+    <hkern u1="&#x7b;" u2="H" k="10" />
+    <hkern u1="&#x7b;" u2="G" k="26" />
+    <hkern u1="&#x7b;" u2="F" k="10" />
+    <hkern u1="&#x7b;" u2="E" k="10" />
+    <hkern u1="&#x7b;" u2="D" k="10" />
+    <hkern u1="&#x7b;" u2="C" k="26" />
+    <hkern u1="&#x7b;" u2="B" k="10" />
+    <hkern u1="&#x7b;" u2="A" k="28" />
     <hkern u1="&#x7b;" u2="&#x7b;" k="19" />
     <hkern u1="&#x7b;" u2="&#x39;" k="21" />
     <hkern u1="&#x7b;" u2="&#x38;" k="24" />
@@ -3526,34 +5152,574 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern u1="&#x7d;" u2="&#x7d;" k="19" />
     <hkern u1="&#x7d;" u2="]" k="16" />
     <hkern u1="&#x7d;" u2="&#x29;" k="20" />
+    <hkern u1="&#xa1;" u2="&#x1ef2;" k="41" />
+    <hkern u1="&#xa1;" u2="&#x21a;" k="61" />
+    <hkern u1="&#xa1;" u2="&#x178;" k="41" />
+    <hkern u1="&#xa1;" u2="&#x176;" k="41" />
+    <hkern u1="&#xa1;" u2="&#x166;" k="47" />
+    <hkern u1="&#xa1;" u2="&#x164;" k="61" />
+    <hkern u1="&#xa1;" u2="&#xdd;" k="41" />
+    <hkern u1="&#xa1;" u2="Y" k="41" />
+    <hkern u1="&#xa1;" u2="V" k="21" />
+    <hkern u1="&#xa1;" u2="T" k="61" />
+    <hkern u1="&#xa9;" u2="&#x1ef2;" k="38" />
+    <hkern u1="&#xa9;" u2="&#x21a;" k="33" />
+    <hkern u1="&#xa9;" u2="&#x1fc;" k="17" />
+    <hkern u1="&#xa9;" u2="&#x17d;" k="18" />
+    <hkern u1="&#xa9;" u2="&#x17b;" k="18" />
+    <hkern u1="&#xa9;" u2="&#x179;" k="18" />
+    <hkern u1="&#xa9;" u2="&#x178;" k="38" />
+    <hkern u1="&#xa9;" u2="&#x176;" k="38" />
+    <hkern u1="&#xa9;" u2="&#x166;" k="22" />
+    <hkern u1="&#xa9;" u2="&#x164;" k="33" />
+    <hkern u1="&#xa9;" u2="&#x104;" k="15" />
+    <hkern u1="&#xa9;" u2="&#x102;" k="15" />
+    <hkern u1="&#xa9;" u2="&#x100;" k="15" />
+    <hkern u1="&#xa9;" u2="&#xdd;" k="38" />
+    <hkern u1="&#xa9;" u2="&#xc6;" k="17" />
+    <hkern u1="&#xa9;" u2="&#xc5;" k="15" />
+    <hkern u1="&#xa9;" u2="&#xc4;" k="15" />
+    <hkern u1="&#xa9;" u2="&#xc3;" k="15" />
+    <hkern u1="&#xa9;" u2="&#xc2;" k="15" />
+    <hkern u1="&#xa9;" u2="&#xc1;" k="15" />
+    <hkern u1="&#xa9;" u2="&#xc0;" k="15" />
+    <hkern u1="&#xa9;" u2="Z" k="18" />
+    <hkern u1="&#xa9;" u2="Y" k="38" />
+    <hkern u1="&#xa9;" u2="X" k="20" />
+    <hkern u1="&#xa9;" u2="V" k="22" />
+    <hkern u1="&#xa9;" u2="T" k="33" />
+    <hkern u1="&#xa9;" u2="A" k="15" />
     <hkern u1="&#xa9;" u2="&#x201d;" k="13" />
     <hkern u1="&#xa9;" u2="&#x2019;" k="13" />
     <hkern u1="&#xa9;" u2="&#x27;" k="11" />
     <hkern u1="&#xa9;" u2="&#x22;" k="11" />
+    <hkern u1="&#xab;" u2="V" k="12" />
+    <hkern u1="&#xae;" u2="&#x1ef2;" k="38" />
+    <hkern u1="&#xae;" u2="&#x21a;" k="32" />
+    <hkern u1="&#xae;" u2="&#x1fc;" k="17" />
+    <hkern u1="&#xae;" u2="&#x17d;" k="18" />
+    <hkern u1="&#xae;" u2="&#x17b;" k="18" />
+    <hkern u1="&#xae;" u2="&#x179;" k="18" />
+    <hkern u1="&#xae;" u2="&#x178;" k="38" />
+    <hkern u1="&#xae;" u2="&#x176;" k="38" />
+    <hkern u1="&#xae;" u2="&#x166;" k="21" />
+    <hkern u1="&#xae;" u2="&#x164;" k="32" />
+    <hkern u1="&#xae;" u2="&#x104;" k="15" />
+    <hkern u1="&#xae;" u2="&#x102;" k="15" />
+    <hkern u1="&#xae;" u2="&#x100;" k="15" />
+    <hkern u1="&#xae;" u2="&#xdd;" k="38" />
+    <hkern u1="&#xae;" u2="&#xc6;" k="17" />
+    <hkern u1="&#xae;" u2="&#xc5;" k="15" />
+    <hkern u1="&#xae;" u2="&#xc4;" k="15" />
+    <hkern u1="&#xae;" u2="&#xc3;" k="15" />
+    <hkern u1="&#xae;" u2="&#xc2;" k="15" />
+    <hkern u1="&#xae;" u2="&#xc1;" k="15" />
+    <hkern u1="&#xae;" u2="&#xc0;" k="15" />
+    <hkern u1="&#xae;" u2="Z" k="18" />
+    <hkern u1="&#xae;" u2="Y" k="38" />
+    <hkern u1="&#xae;" u2="X" k="19" />
+    <hkern u1="&#xae;" u2="V" k="22" />
+    <hkern u1="&#xae;" u2="T" k="32" />
+    <hkern u1="&#xae;" u2="A" k="15" />
     <hkern u1="&#xae;" u2="&#x201d;" k="13" />
     <hkern u1="&#xae;" u2="&#x2019;" k="13" />
     <hkern u1="&#xae;" u2="&#x27;" k="11" />
     <hkern u1="&#xae;" u2="&#x22;" k="11" />
     <hkern u1="&#xb0;" u2="&#x36;" k="36" />
     <hkern u1="&#xb0;" u2="&#x34;" k="48" />
+    <hkern u1="&#xb7;" u2="&#x142;" k="41" />
+    <hkern u1="&#xb7;" u2="&#x140;" k="41" />
+    <hkern u1="&#xb7;" u2="&#x13e;" k="41" />
+    <hkern u1="&#xb7;" u2="&#x13c;" k="41" />
+    <hkern u1="&#xb7;" u2="&#x13a;" k="41" />
+    <hkern u1="&#xb7;" u2="l" k="41" />
     <hkern u1="&#xb7;" u2="&#x37;" k="53" />
     <hkern u1="&#xb7;" u2="&#x33;" k="15" />
     <hkern u1="&#xb7;" u2="&#x32;" k="29" />
     <hkern u1="&#xb7;" u2="&#x31;" k="27" />
+    <hkern u1="&#xbb;" u2="&#x166;" k="48" />
+    <hkern u1="&#xbb;" u2="x" k="20" />
+    <hkern u1="&#xbb;" u2="v" k="15" />
+    <hkern u1="&#xbb;" u2="j" k="10" />
+    <hkern u1="&#xbb;" u2="X" k="47" />
+    <hkern u1="&#xbb;" u2="V" k="37" />
+    <hkern u1="&#xbf;" g2="f_f_l" k="20" />
+    <hkern u1="&#xbf;" g2="f_f_i" k="20" />
+    <hkern u1="&#xbf;" g2="f_f" k="20" />
+    <hkern u1="&#xbf;" g2="fl" k="20" />
+    <hkern u1="&#xbf;" g2="fi" k="20" />
+    <hkern u1="&#xbf;" u2="&#x1ef3;" k="45" />
+    <hkern u1="&#xbf;" u2="&#x1ef2;" k="82" />
+    <hkern u1="&#xbf;" u2="&#x1e85;" k="43" />
+    <hkern u1="&#xbf;" u2="&#x1e84;" k="39" />
+    <hkern u1="&#xbf;" u2="&#x1e83;" k="43" />
+    <hkern u1="&#xbf;" u2="&#x1e82;" k="39" />
+    <hkern u1="&#xbf;" u2="&#x1e81;" k="43" />
+    <hkern u1="&#xbf;" u2="&#x1e80;" k="39" />
+    <hkern u1="&#xbf;" u2="&#x21b;" k="29" />
+    <hkern u1="&#xbf;" u2="&#x21a;" k="71" />
+    <hkern u1="&#xbf;" u2="&#x1ff;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x1fe;" k="27" />
+    <hkern u1="&#xbf;" u2="&#x178;" k="82" />
+    <hkern u1="&#xbf;" u2="&#x177;" k="45" />
+    <hkern u1="&#xbf;" u2="&#x176;" k="82" />
+    <hkern u1="&#xbf;" u2="&#x175;" k="43" />
+    <hkern u1="&#xbf;" u2="&#x174;" k="39" />
+    <hkern u1="&#xbf;" u2="&#x173;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x172;" k="29" />
+    <hkern u1="&#xbf;" u2="&#x171;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x170;" k="29" />
+    <hkern u1="&#xbf;" u2="&#x16f;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x16e;" k="29" />
+    <hkern u1="&#xbf;" u2="&#x16d;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x16c;" k="29" />
+    <hkern u1="&#xbf;" u2="&#x16b;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x16a;" k="29" />
+    <hkern u1="&#xbf;" u2="&#x169;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x168;" k="29" />
+    <hkern u1="&#xbf;" u2="&#x167;" k="29" />
+    <hkern u1="&#xbf;" u2="&#x166;" k="71" />
+    <hkern u1="&#xbf;" u2="&#x165;" k="29" />
+    <hkern u1="&#xbf;" u2="&#x164;" k="71" />
+    <hkern u1="&#xbf;" u2="&#x153;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x152;" k="27" />
+    <hkern u1="&#xbf;" u2="&#x151;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x150;" k="27" />
+    <hkern u1="&#xbf;" u2="&#x14f;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x14e;" k="27" />
+    <hkern u1="&#xbf;" u2="&#x14d;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x14c;" k="27" />
+    <hkern u1="&#xbf;" u2="&#x122;" k="27" />
+    <hkern u1="&#xbf;" u2="&#x120;" k="27" />
+    <hkern u1="&#xbf;" u2="&#x11e;" k="27" />
+    <hkern u1="&#xbf;" u2="&#x11c;" k="27" />
+    <hkern u1="&#xbf;" u2="&#x11b;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x119;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x117;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x115;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x113;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x111;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x10f;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x10d;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x10c;" k="27" />
+    <hkern u1="&#xbf;" u2="&#x10b;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x10a;" k="27" />
+    <hkern u1="&#xbf;" u2="&#x109;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x108;" k="27" />
+    <hkern u1="&#xbf;" u2="&#x107;" k="18" />
+    <hkern u1="&#xbf;" u2="&#x106;" k="27" />
+    <hkern u1="&#xbf;" u2="&#xff;" k="45" />
+    <hkern u1="&#xbf;" u2="&#xfd;" k="45" />
+    <hkern u1="&#xbf;" u2="&#xfc;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xfb;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xfa;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xf9;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xf8;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xf6;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xf5;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xf4;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xf3;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xf2;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xf0;" k="17" />
+    <hkern u1="&#xbf;" u2="&#xeb;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xea;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xe9;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xe8;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xe7;" k="18" />
+    <hkern u1="&#xbf;" u2="&#xdd;" k="82" />
+    <hkern u1="&#xbf;" u2="&#xdc;" k="29" />
+    <hkern u1="&#xbf;" u2="&#xdb;" k="29" />
+    <hkern u1="&#xbf;" u2="&#xda;" k="29" />
+    <hkern u1="&#xbf;" u2="&#xd9;" k="29" />
+    <hkern u1="&#xbf;" u2="&#xd8;" k="27" />
+    <hkern u1="&#xbf;" u2="&#xd6;" k="27" />
+    <hkern u1="&#xbf;" u2="&#xd5;" k="27" />
+    <hkern u1="&#xbf;" u2="&#xd4;" k="27" />
+    <hkern u1="&#xbf;" u2="&#xd3;" k="27" />
+    <hkern u1="&#xbf;" u2="&#xd2;" k="27" />
+    <hkern u1="&#xbf;" u2="&#xc7;" k="27" />
+    <hkern u1="&#xbf;" u2="y" k="45" />
+    <hkern u1="&#xbf;" u2="w" k="43" />
+    <hkern u1="&#xbf;" u2="v" k="55" />
+    <hkern u1="&#xbf;" u2="u" k="18" />
+    <hkern u1="&#xbf;" u2="t" k="29" />
+    <hkern u1="&#xbf;" u2="q" k="18" />
+    <hkern u1="&#xbf;" u2="o" k="18" />
+    <hkern u1="&#xbf;" u2="f" k="20" />
+    <hkern u1="&#xbf;" u2="e" k="18" />
+    <hkern u1="&#xbf;" u2="d" k="18" />
+    <hkern u1="&#xbf;" u2="c" k="18" />
+    <hkern u1="&#xbf;" u2="Y" k="82" />
+    <hkern u1="&#xbf;" u2="W" k="39" />
+    <hkern u1="&#xbf;" u2="V" k="70" />
+    <hkern u1="&#xbf;" u2="U" k="29" />
+    <hkern u1="&#xbf;" u2="T" k="71" />
+    <hkern u1="&#xbf;" u2="Q" k="27" />
+    <hkern u1="&#xbf;" u2="O" k="27" />
+    <hkern u1="&#xbf;" u2="G" k="27" />
+    <hkern u1="&#xbf;" u2="C" k="27" />
+    <hkern u1="&#xc0;" g2="bracketright.case" k="25" />
+    <hkern u1="&#xc0;" g2="braceright.case" k="22" />
+    <hkern u1="&#xc0;" g2="parenright.case" k="23" />
+    <hkern u1="&#xc0;" u2="&#x2122;" k="68" />
+    <hkern u1="&#xc0;" u2="&#x17f;" k="20" />
+    <hkern u1="&#xc0;" u2="&#xf0;" k="6" />
+    <hkern u1="&#xc0;" u2="&#xba;" k="59" />
+    <hkern u1="&#xc0;" u2="&#xae;" k="14" />
+    <hkern u1="&#xc0;" u2="&#xaa;" k="56" />
+    <hkern u1="&#xc0;" u2="&#xa9;" k="14" />
+    <hkern u1="&#xc0;" u2="&#x7d;" k="28" />
+    <hkern u1="&#xc0;" u2="v" k="28" />
+    <hkern u1="&#xc0;" u2="j" k="-16" />
+    <hkern u1="&#xc0;" u2="]" k="29" />
+    <hkern u1="&#xc0;" u2="\" k="65" />
+    <hkern u1="&#xc0;" u2="V" k="46" />
+    <hkern u1="&#xc0;" u2="&#x3f;" k="40" />
+    <hkern u1="&#xc0;" u2="&#x39;" k="28" />
+    <hkern u1="&#xc0;" u2="&#x37;" k="20" />
+    <hkern u1="&#xc0;" u2="&#x31;" k="43" />
+    <hkern u1="&#xc0;" u2="&#x2a;" k="62" />
+    <hkern u1="&#xc0;" u2="&#x29;" k="33" />
+    <hkern u1="&#xc0;" u2="&#x20;" k="27" />
+    <hkern u1="&#xc1;" g2="bracketright.case" k="25" />
+    <hkern u1="&#xc1;" g2="braceright.case" k="22" />
+    <hkern u1="&#xc1;" g2="parenright.case" k="23" />
+    <hkern u1="&#xc1;" u2="&#x2122;" k="68" />
+    <hkern u1="&#xc1;" u2="&#x17f;" k="20" />
+    <hkern u1="&#xc1;" u2="&#xf0;" k="6" />
+    <hkern u1="&#xc1;" u2="&#xba;" k="59" />
+    <hkern u1="&#xc1;" u2="&#xae;" k="14" />
+    <hkern u1="&#xc1;" u2="&#xaa;" k="56" />
+    <hkern u1="&#xc1;" u2="&#xa9;" k="14" />
+    <hkern u1="&#xc1;" u2="&#x7d;" k="28" />
+    <hkern u1="&#xc1;" u2="v" k="28" />
+    <hkern u1="&#xc1;" u2="j" k="-16" />
+    <hkern u1="&#xc1;" u2="]" k="29" />
+    <hkern u1="&#xc1;" u2="\" k="65" />
+    <hkern u1="&#xc1;" u2="V" k="46" />
+    <hkern u1="&#xc1;" u2="&#x3f;" k="40" />
+    <hkern u1="&#xc1;" u2="&#x39;" k="28" />
+    <hkern u1="&#xc1;" u2="&#x37;" k="20" />
+    <hkern u1="&#xc1;" u2="&#x31;" k="43" />
+    <hkern u1="&#xc1;" u2="&#x2a;" k="62" />
+    <hkern u1="&#xc1;" u2="&#x29;" k="33" />
+    <hkern u1="&#xc1;" u2="&#x20;" k="27" />
+    <hkern u1="&#xc2;" g2="bracketright.case" k="25" />
+    <hkern u1="&#xc2;" g2="braceright.case" k="22" />
+    <hkern u1="&#xc2;" g2="parenright.case" k="23" />
+    <hkern u1="&#xc2;" u2="&#x2122;" k="68" />
+    <hkern u1="&#xc2;" u2="&#x17f;" k="20" />
+    <hkern u1="&#xc2;" u2="&#xf0;" k="6" />
+    <hkern u1="&#xc2;" u2="&#xba;" k="59" />
+    <hkern u1="&#xc2;" u2="&#xae;" k="14" />
+    <hkern u1="&#xc2;" u2="&#xaa;" k="56" />
+    <hkern u1="&#xc2;" u2="&#xa9;" k="14" />
+    <hkern u1="&#xc2;" u2="&#x7d;" k="28" />
+    <hkern u1="&#xc2;" u2="v" k="28" />
+    <hkern u1="&#xc2;" u2="j" k="-16" />
+    <hkern u1="&#xc2;" u2="]" k="29" />
+    <hkern u1="&#xc2;" u2="\" k="65" />
+    <hkern u1="&#xc2;" u2="V" k="46" />
+    <hkern u1="&#xc2;" u2="&#x3f;" k="40" />
+    <hkern u1="&#xc2;" u2="&#x39;" k="28" />
+    <hkern u1="&#xc2;" u2="&#x37;" k="20" />
+    <hkern u1="&#xc2;" u2="&#x31;" k="43" />
+    <hkern u1="&#xc2;" u2="&#x2a;" k="62" />
+    <hkern u1="&#xc2;" u2="&#x29;" k="33" />
+    <hkern u1="&#xc2;" u2="&#x20;" k="27" />
+    <hkern u1="&#xc3;" g2="bracketright.case" k="25" />
+    <hkern u1="&#xc3;" g2="braceright.case" k="22" />
+    <hkern u1="&#xc3;" g2="parenright.case" k="23" />
+    <hkern u1="&#xc3;" u2="&#x2122;" k="68" />
+    <hkern u1="&#xc3;" u2="&#x17f;" k="20" />
+    <hkern u1="&#xc3;" u2="&#xf0;" k="6" />
+    <hkern u1="&#xc3;" u2="&#xba;" k="59" />
+    <hkern u1="&#xc3;" u2="&#xae;" k="14" />
+    <hkern u1="&#xc3;" u2="&#xaa;" k="56" />
+    <hkern u1="&#xc3;" u2="&#xa9;" k="14" />
+    <hkern u1="&#xc3;" u2="&#x7d;" k="28" />
+    <hkern u1="&#xc3;" u2="v" k="28" />
+    <hkern u1="&#xc3;" u2="j" k="-16" />
+    <hkern u1="&#xc3;" u2="]" k="29" />
+    <hkern u1="&#xc3;" u2="\" k="65" />
+    <hkern u1="&#xc3;" u2="V" k="46" />
+    <hkern u1="&#xc3;" u2="&#x3f;" k="40" />
+    <hkern u1="&#xc3;" u2="&#x39;" k="28" />
+    <hkern u1="&#xc3;" u2="&#x37;" k="20" />
+    <hkern u1="&#xc3;" u2="&#x31;" k="43" />
+    <hkern u1="&#xc3;" u2="&#x2a;" k="62" />
+    <hkern u1="&#xc3;" u2="&#x29;" k="33" />
+    <hkern u1="&#xc3;" u2="&#x20;" k="27" />
+    <hkern u1="&#xc4;" g2="bracketright.case" k="25" />
+    <hkern u1="&#xc4;" g2="braceright.case" k="22" />
+    <hkern u1="&#xc4;" g2="parenright.case" k="23" />
+    <hkern u1="&#xc4;" u2="&#x2122;" k="68" />
+    <hkern u1="&#xc4;" u2="&#x17f;" k="20" />
+    <hkern u1="&#xc4;" u2="&#xf0;" k="6" />
+    <hkern u1="&#xc4;" u2="&#xba;" k="59" />
+    <hkern u1="&#xc4;" u2="&#xae;" k="14" />
+    <hkern u1="&#xc4;" u2="&#xaa;" k="56" />
+    <hkern u1="&#xc4;" u2="&#xa9;" k="14" />
+    <hkern u1="&#xc4;" u2="&#x7d;" k="28" />
+    <hkern u1="&#xc4;" u2="v" k="28" />
+    <hkern u1="&#xc4;" u2="j" k="-16" />
+    <hkern u1="&#xc4;" u2="]" k="29" />
+    <hkern u1="&#xc4;" u2="\" k="65" />
+    <hkern u1="&#xc4;" u2="V" k="46" />
+    <hkern u1="&#xc4;" u2="&#x3f;" k="40" />
+    <hkern u1="&#xc4;" u2="&#x39;" k="28" />
+    <hkern u1="&#xc4;" u2="&#x37;" k="20" />
+    <hkern u1="&#xc4;" u2="&#x31;" k="43" />
+    <hkern u1="&#xc4;" u2="&#x2a;" k="62" />
+    <hkern u1="&#xc4;" u2="&#x29;" k="33" />
+    <hkern u1="&#xc4;" u2="&#x20;" k="27" />
+    <hkern u1="&#xc5;" g2="bracketright.case" k="25" />
+    <hkern u1="&#xc5;" g2="braceright.case" k="22" />
+    <hkern u1="&#xc5;" g2="parenright.case" k="23" />
+    <hkern u1="&#xc5;" u2="&#x2122;" k="68" />
+    <hkern u1="&#xc5;" u2="&#x17f;" k="20" />
+    <hkern u1="&#xc5;" u2="&#xf0;" k="6" />
+    <hkern u1="&#xc5;" u2="&#xba;" k="59" />
+    <hkern u1="&#xc5;" u2="&#xae;" k="14" />
+    <hkern u1="&#xc5;" u2="&#xaa;" k="56" />
+    <hkern u1="&#xc5;" u2="&#xa9;" k="14" />
+    <hkern u1="&#xc5;" u2="&#x7d;" k="28" />
+    <hkern u1="&#xc5;" u2="v" k="28" />
+    <hkern u1="&#xc5;" u2="j" k="-16" />
+    <hkern u1="&#xc5;" u2="]" k="29" />
+    <hkern u1="&#xc5;" u2="\" k="65" />
+    <hkern u1="&#xc5;" u2="V" k="46" />
+    <hkern u1="&#xc5;" u2="&#x3f;" k="40" />
+    <hkern u1="&#xc5;" u2="&#x39;" k="28" />
+    <hkern u1="&#xc5;" u2="&#x37;" k="20" />
+    <hkern u1="&#xc5;" u2="&#x31;" k="43" />
+    <hkern u1="&#xc5;" u2="&#x2a;" k="62" />
+    <hkern u1="&#xc5;" u2="&#x29;" k="33" />
+    <hkern u1="&#xc5;" u2="&#x20;" k="27" />
+    <hkern u1="&#xc6;" u2="&#x17f;" k="12" />
+    <hkern u1="&#xc6;" u2="&#xf0;" k="10" />
+    <hkern u1="&#xc6;" u2="v" k="18" />
+    <hkern u1="&#xc6;" u2="V" k="10" />
+    <hkern u1="&#xc6;" u2="&#x34;" k="10" />
+    <hkern u1="&#xc6;" u2="&#x31;" k="12" />
     <hkern u1="&#xc7;" u2="&#x338;" k="10" />
+    <hkern u1="&#xc7;" g2="bracketright.case" k="28" />
+    <hkern u1="&#xc7;" g2="braceright.case" k="28" />
+    <hkern u1="&#xc7;" g2="parenright.case" k="35" />
+    <hkern u1="&#xc7;" u2="&#x7d;" k="22" />
+    <hkern u1="&#xc7;" u2="]" k="22" />
+    <hkern u1="&#xc7;" u2="\" k="10" />
+    <hkern u1="&#xc7;" u2="X" k="7" />
+    <hkern u1="&#xc7;" u2="V" k="16" />
+    <hkern u1="&#xc7;" u2="&#x29;" k="28" />
+    <hkern u1="&#xc8;" u2="&#x17f;" k="12" />
+    <hkern u1="&#xc8;" u2="&#xf0;" k="10" />
+    <hkern u1="&#xc8;" u2="v" k="18" />
+    <hkern u1="&#xc8;" u2="V" k="10" />
+    <hkern u1="&#xc8;" u2="&#x34;" k="10" />
+    <hkern u1="&#xc8;" u2="&#x31;" k="12" />
+    <hkern u1="&#xc9;" u2="&#x17f;" k="12" />
+    <hkern u1="&#xc9;" u2="&#xf0;" k="10" />
+    <hkern u1="&#xc9;" u2="v" k="18" />
+    <hkern u1="&#xc9;" u2="V" k="10" />
+    <hkern u1="&#xc9;" u2="&#x34;" k="10" />
+    <hkern u1="&#xc9;" u2="&#x31;" k="12" />
+    <hkern u1="&#xca;" u2="&#x17f;" k="12" />
+    <hkern u1="&#xca;" u2="&#xf0;" k="10" />
+    <hkern u1="&#xca;" u2="v" k="18" />
+    <hkern u1="&#xca;" u2="V" k="10" />
+    <hkern u1="&#xca;" u2="&#x34;" k="10" />
+    <hkern u1="&#xca;" u2="&#x31;" k="12" />
+    <hkern u1="&#xcb;" u2="&#x17f;" k="12" />
+    <hkern u1="&#xcb;" u2="&#xf0;" k="10" />
+    <hkern u1="&#xcb;" u2="v" k="18" />
+    <hkern u1="&#xcb;" u2="V" k="10" />
+    <hkern u1="&#xcb;" u2="&#x34;" k="10" />
+    <hkern u1="&#xcb;" u2="&#x31;" k="12" />
+    <hkern u1="&#xcc;" g2="bracketright.case" k="14" />
+    <hkern u1="&#xcc;" g2="braceright.case" k="14" />
+    <hkern u1="&#xcc;" g2="parenright.case" k="16" />
+    <hkern u1="&#xcc;" u2="&#xf0;" k="5" />
+    <hkern u1="&#xcc;" u2="&#x7d;" k="10" />
+    <hkern u1="&#xcc;" u2="]" k="10" />
+    <hkern u1="&#xcc;" u2="\" k="-32" />
+    <hkern u1="&#xcc;" u2="&#x29;" k="11" />
+    <hkern u1="&#xcd;" g2="bracketright.case" k="14" />
+    <hkern u1="&#xcd;" g2="braceright.case" k="14" />
+    <hkern u1="&#xcd;" g2="parenright.case" k="16" />
+    <hkern u1="&#xcd;" u2="&#xf0;" k="5" />
+    <hkern u1="&#xcd;" u2="&#x7d;" k="10" />
+    <hkern u1="&#xcd;" u2="]" k="10" />
+    <hkern u1="&#xcd;" u2="\" k="-32" />
+    <hkern u1="&#xcd;" u2="&#x29;" k="11" />
+    <hkern u1="&#xce;" g2="bracketright.case" k="-15" />
+    <hkern u1="&#xce;" g2="braceright.case" k="-15" />
+    <hkern u1="&#xce;" g2="parenright.case" k="-16" />
+    <hkern u1="&#xce;" u2="&#xf0;" k="5" />
+    <hkern u1="&#xce;" u2="&#x7d;" k="-31" />
+    <hkern u1="&#xce;" u2="]" k="-30" />
+    <hkern u1="&#xce;" u2="\" k="-32" />
+    <hkern u1="&#xce;" u2="&#x29;" k="-33" />
+    <hkern u1="&#xcf;" g2="bracketright.case" k="-15" />
+    <hkern u1="&#xcf;" g2="braceright.case" k="-15" />
+    <hkern u1="&#xcf;" g2="parenright.case" k="-17" />
+    <hkern u1="&#xcf;" u2="&#xf0;" k="5" />
+    <hkern u1="&#xcf;" u2="&#x7d;" k="-26" />
+    <hkern u1="&#xcf;" u2="]" k="-25" />
+    <hkern u1="&#xcf;" u2="\" k="-29" />
+    <hkern u1="&#xcf;" u2="&#x29;" k="-28" />
     <hkern u1="&#xd0;" u2="&#x338;" k="17" />
+    <hkern u1="&#xd0;" g2="bracketright.case" k="31" />
+    <hkern u1="&#xd0;" g2="braceright.case" k="32" />
+    <hkern u1="&#xd0;" g2="parenright.case" k="39" />
+    <hkern u1="&#xd0;" u2="&#x2122;" k="9" />
+    <hkern u1="&#xd0;" u2="&#x7d;" k="26" />
+    <hkern u1="&#xd0;" u2="]" k="25" />
+    <hkern u1="&#xd0;" u2="\" k="18" />
+    <hkern u1="&#xd0;" u2="X" k="20" />
+    <hkern u1="&#xd0;" u2="V" k="18" />
+    <hkern u1="&#xd0;" u2="&#x29;" k="32" />
+    <hkern u1="&#xd1;" g2="bracketright.case" k="14" />
+    <hkern u1="&#xd1;" g2="braceright.case" k="14" />
+    <hkern u1="&#xd1;" g2="parenright.case" k="16" />
+    <hkern u1="&#xd1;" u2="&#xf0;" k="5" />
+    <hkern u1="&#xd1;" u2="&#x7d;" k="10" />
+    <hkern u1="&#xd1;" u2="]" k="10" />
+    <hkern u1="&#xd1;" u2="\" k="-32" />
+    <hkern u1="&#xd1;" u2="&#x29;" k="11" />
     <hkern u1="&#xd2;" u2="&#x338;" k="17" />
+    <hkern u1="&#xd2;" g2="bracketright.case" k="30" />
+    <hkern u1="&#xd2;" g2="braceright.case" k="32" />
+    <hkern u1="&#xd2;" g2="parenright.case" k="39" />
+    <hkern u1="&#xd2;" u2="&#x2122;" k="10" />
+    <hkern u1="&#xd2;" u2="&#x7d;" k="26" />
+    <hkern u1="&#xd2;" u2="]" k="25" />
+    <hkern u1="&#xd2;" u2="\" k="18" />
+    <hkern u1="&#xd2;" u2="X" k="20" />
+    <hkern u1="&#xd2;" u2="V" k="19" />
+    <hkern u1="&#xd2;" u2="&#x37;" k="10" />
+    <hkern u1="&#xd2;" u2="&#x29;" k="32" />
     <hkern u1="&#xd3;" u2="&#x338;" k="17" />
+    <hkern u1="&#xd3;" g2="bracketright.case" k="30" />
+    <hkern u1="&#xd3;" g2="braceright.case" k="32" />
+    <hkern u1="&#xd3;" g2="parenright.case" k="39" />
+    <hkern u1="&#xd3;" u2="&#x2122;" k="10" />
+    <hkern u1="&#xd3;" u2="&#x7d;" k="26" />
+    <hkern u1="&#xd3;" u2="]" k="25" />
+    <hkern u1="&#xd3;" u2="\" k="18" />
+    <hkern u1="&#xd3;" u2="X" k="20" />
+    <hkern u1="&#xd3;" u2="V" k="19" />
+    <hkern u1="&#xd3;" u2="&#x37;" k="10" />
+    <hkern u1="&#xd3;" u2="&#x29;" k="32" />
     <hkern u1="&#xd4;" u2="&#x338;" k="17" />
+    <hkern u1="&#xd4;" g2="bracketright.case" k="30" />
+    <hkern u1="&#xd4;" g2="braceright.case" k="32" />
+    <hkern u1="&#xd4;" g2="parenright.case" k="39" />
+    <hkern u1="&#xd4;" u2="&#x2122;" k="10" />
+    <hkern u1="&#xd4;" u2="&#x7d;" k="26" />
+    <hkern u1="&#xd4;" u2="]" k="25" />
+    <hkern u1="&#xd4;" u2="\" k="18" />
+    <hkern u1="&#xd4;" u2="X" k="20" />
+    <hkern u1="&#xd4;" u2="V" k="19" />
+    <hkern u1="&#xd4;" u2="&#x37;" k="10" />
+    <hkern u1="&#xd4;" u2="&#x29;" k="32" />
     <hkern u1="&#xd5;" u2="&#x338;" k="17" />
+    <hkern u1="&#xd5;" g2="bracketright.case" k="30" />
+    <hkern u1="&#xd5;" g2="braceright.case" k="32" />
+    <hkern u1="&#xd5;" g2="parenright.case" k="39" />
+    <hkern u1="&#xd5;" u2="&#x2122;" k="10" />
+    <hkern u1="&#xd5;" u2="&#x7d;" k="26" />
+    <hkern u1="&#xd5;" u2="]" k="25" />
+    <hkern u1="&#xd5;" u2="\" k="18" />
+    <hkern u1="&#xd5;" u2="X" k="20" />
+    <hkern u1="&#xd5;" u2="V" k="19" />
+    <hkern u1="&#xd5;" u2="&#x37;" k="10" />
+    <hkern u1="&#xd5;" u2="&#x29;" k="32" />
     <hkern u1="&#xd6;" u2="&#x338;" k="17" />
+    <hkern u1="&#xd6;" g2="bracketright.case" k="30" />
+    <hkern u1="&#xd6;" g2="braceright.case" k="32" />
+    <hkern u1="&#xd6;" g2="parenright.case" k="39" />
+    <hkern u1="&#xd6;" u2="&#x2122;" k="10" />
+    <hkern u1="&#xd6;" u2="&#x7d;" k="26" />
+    <hkern u1="&#xd6;" u2="]" k="25" />
+    <hkern u1="&#xd6;" u2="\" k="18" />
+    <hkern u1="&#xd6;" u2="X" k="20" />
+    <hkern u1="&#xd6;" u2="V" k="19" />
+    <hkern u1="&#xd6;" u2="&#x37;" k="10" />
+    <hkern u1="&#xd6;" u2="&#x29;" k="32" />
     <hkern u1="&#xd7;" u2="&#x37;" k="24" />
     <hkern u1="&#xd8;" u2="&#x338;" k="17" />
+    <hkern u1="&#xd8;" g2="bracketright.case" k="30" />
+    <hkern u1="&#xd8;" g2="braceright.case" k="32" />
+    <hkern u1="&#xd8;" g2="parenright.case" k="39" />
+    <hkern u1="&#xd8;" u2="&#x2122;" k="10" />
+    <hkern u1="&#xd8;" u2="&#x7d;" k="26" />
+    <hkern u1="&#xd8;" u2="]" k="25" />
+    <hkern u1="&#xd8;" u2="\" k="18" />
+    <hkern u1="&#xd8;" u2="X" k="20" />
+    <hkern u1="&#xd8;" u2="V" k="19" />
+    <hkern u1="&#xd8;" u2="&#x37;" k="10" />
+    <hkern u1="&#xd8;" u2="&#x29;" k="32" />
     <hkern u1="&#xd9;" u2="&#x338;" k="19" />
+    <hkern u1="&#xd9;" g2="bracketright.case" k="20" />
+    <hkern u1="&#xd9;" g2="braceright.case" k="20" />
+    <hkern u1="&#xd9;" g2="parenright.case" k="24" />
+    <hkern u1="&#xd9;" u2="&#xf0;" k="6" />
+    <hkern u1="&#xd9;" u2="&#x7d;" k="11" />
+    <hkern u1="&#xd9;" u2="]" k="11" />
+    <hkern u1="&#xd9;" u2="&#x29;" k="12" />
     <hkern u1="&#xda;" u2="&#x338;" k="19" />
+    <hkern u1="&#xda;" g2="bracketright.case" k="20" />
+    <hkern u1="&#xda;" g2="braceright.case" k="20" />
+    <hkern u1="&#xda;" g2="parenright.case" k="24" />
+    <hkern u1="&#xda;" u2="&#xf0;" k="6" />
+    <hkern u1="&#xda;" u2="&#x7d;" k="11" />
+    <hkern u1="&#xda;" u2="]" k="11" />
+    <hkern u1="&#xda;" u2="&#x29;" k="12" />
     <hkern u1="&#xdb;" u2="&#x338;" k="19" />
+    <hkern u1="&#xdb;" g2="bracketright.case" k="20" />
+    <hkern u1="&#xdb;" g2="braceright.case" k="20" />
+    <hkern u1="&#xdb;" g2="parenright.case" k="24" />
+    <hkern u1="&#xdb;" u2="&#xf0;" k="6" />
+    <hkern u1="&#xdb;" u2="&#x7d;" k="11" />
+    <hkern u1="&#xdb;" u2="]" k="11" />
+    <hkern u1="&#xdb;" u2="&#x29;" k="12" />
     <hkern u1="&#xdc;" u2="&#x338;" k="19" />
+    <hkern u1="&#xdc;" g2="bracketright.case" k="20" />
+    <hkern u1="&#xdc;" g2="braceright.case" k="20" />
+    <hkern u1="&#xdc;" g2="parenright.case" k="24" />
+    <hkern u1="&#xdc;" u2="&#xf0;" k="6" />
+    <hkern u1="&#xdc;" u2="&#x7d;" k="11" />
+    <hkern u1="&#xdc;" u2="]" k="11" />
+    <hkern u1="&#xdc;" u2="&#x29;" k="12" />
     <hkern u1="&#xdd;" u2="&#x338;" k="83" />
+    <hkern u1="&#xdd;" g2="at.case" k="31" />
+    <hkern u1="&#xdd;" g2="bracketright.case" k="32" />
+    <hkern u1="&#xdd;" g2="braceright.case" k="28" />
+    <hkern u1="&#xdd;" g2="parenright.case" k="29" />
+    <hkern u1="&#xdd;" u2="&#x17f;" k="37" />
+    <hkern u1="&#xdd;" u2="&#x15d;" k="86" />
+    <hkern u1="&#xdd;" u2="&#x159;" k="63" />
+    <hkern u1="&#xdd;" u2="&#xf0;" k="90" />
+    <hkern u1="&#xdd;" u2="&#xe4;" k="98" />
+    <hkern u1="&#xdd;" u2="&#xe0;" k="98" />
+    <hkern u1="&#xdd;" u2="&#xdf;" k="35" />
+    <hkern u1="&#xdd;" u2="&#xae;" k="38" />
+    <hkern u1="&#xdd;" u2="&#xa9;" k="38" />
+    <hkern u1="&#xdd;" u2="x" k="56" />
+    <hkern u1="&#xdd;" u2="v" k="55" />
+    <hkern u1="&#xdd;" u2="&#x40;" k="46" />
+    <hkern u1="&#xdd;" u2="&#x3f;" k="10" />
+    <hkern u1="&#xdd;" u2="&#x39;" k="15" />
+    <hkern u1="&#xdd;" u2="&#x38;" k="23" />
+    <hkern u1="&#xdd;" u2="&#x36;" k="68" />
+    <hkern u1="&#xdd;" u2="&#x35;" k="20" />
+    <hkern u1="&#xdd;" u2="&#x34;" k="72" />
+    <hkern u1="&#xdd;" u2="&#x32;" k="18" />
+    <hkern u1="&#xdd;" u2="&#x31;" k="17" />
+    <hkern u1="&#xdd;" u2="&#x30;" k="23" />
+    <hkern u1="&#xdd;" u2="&#x26;" k="32" />
+    <hkern u1="&#xdd;" u2="&#x20;" k="30" />
     <hkern u1="&#xde;" u2="&#x338;" k="27" />
     <hkern u1="&#xde;" g2="bracketright.case" k="33" />
     <hkern u1="&#xde;" g2="braceright.case" k="37" />
@@ -7200,15 +9366,6 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="g,q,u,ugrave,uacute,ucircumflex,udieresis,gcircumflex,gbreve,gdotaccent,uni0123,utilde,umacron,ubreve,uring,uhungarumlaut,uogonek"
 	g2="quoteright,quotedblright"
 	k="10" />
-    <hkern g1="uni0406,uni0407,uni040D,uni040F,uni0418,uni0419,uni041B,uni041C,uni041D,uni041F,uni0427,uni0428,uni042B,uni042F"
-	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
-	k="9" />
-    <hkern g1="uni0406,uni0407,uni040D,uni040F,uni0418,uni0419,uni041B,uni041C,uni041D,uni041F,uni0427,uni0428,uni042B,uni042F"
-	g2="hyphen,endash,emdash"
-	k="9" />
-    <hkern g1="uni0406,uni0407,uni040D,uni040F,uni0418,uni0419,uni041B,uni041C,uni041D,uni041F,uni0427,uni0428,uni042B,uni042F"
-	g2="hyphen.case,endash.case,emdash.case"
-	k="8" />
     <hkern g1="J,U,Ugrave,Uacute,Ucircumflex,Udieresis,Jcircumflex,Utilde,Umacron,Ubreve,Uring,Uhungarumlaut,Uogonek,uni004A0301"
 	g2="a,agrave,aacute,acircumflex,atilde,adieresis,aring,ae,amacron,abreve,aogonek,aeacute"
 	k="5" />
@@ -7233,6 +9390,15 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="J,U,Ugrave,Uacute,Ucircumflex,Udieresis,Jcircumflex,Utilde,Umacron,Ubreve,Uring,Uhungarumlaut,Uogonek,uni004A0301"
 	g2="slash"
 	k="19" />
+    <hkern g1="uni0406,uni0407,uni040D,uni040F,uni0418,uni0419,uni041B,uni041C,uni041D,uni041F,uni0427,uni0428,uni042B,uni042F"
+	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
+	k="9" />
+    <hkern g1="uni0406,uni0407,uni040D,uni040F,uni0418,uni0419,uni041B,uni041C,uni041D,uni041F,uni0427,uni0428,uni042B,uni042F"
+	g2="hyphen,endash,emdash"
+	k="9" />
+    <hkern g1="uni0406,uni0407,uni040D,uni040F,uni0418,uni0419,uni041B,uni041C,uni041D,uni041F,uni0427,uni0428,uni042B,uni042F"
+	g2="hyphen.case,endash.case,emdash.case"
+	k="8" />
     <hkern g1="E,AE,Egrave,Eacute,Ecircumflex,Edieresis,Emacron,Ebreve,Edotaccent,Eogonek,Ecaron,OE,AEacute"
 	g2="c,e,o,ccedilla,egrave,eacute,ecircumflex,edieresis,ograve,oacute,ocircumflex,otilde,odieresis,oslash,cacute,ccircumflex,cdotaccent,ccaron,emacron,ebreve,edotaccent,eogonek,ecaron,omacron,obreve,ohungarumlaut,oe,oslashacute"
 	k="7" />
@@ -7870,11 +10036,11 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
 	g2="S,Sacute,Scircumflex,Scedilla,Scaron,uni0218"
 	k="8" />
     <hkern g1="comma,period,quotesinglbase,quotedblbase,ellipsis"
-	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
-	k="12" />
-    <hkern g1="comma,period,quotesinglbase,quotedblbase,ellipsis"
 	g2="f,fi,fl,f_f,f_f_i,f_f_l"
 	k="24" />
+    <hkern g1="comma,period,quotesinglbase,quotedblbase,ellipsis"
+	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
+	k="12" />
     <hkern g1="comma,period,quotesinglbase,quotedblbase,ellipsis"
 	g2="W,Wcircumflex,Wgrave,Wacute,Wdieresis"
 	k="40" />
@@ -8016,21 +10182,6 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="D,Eth,Dcaron,Dcroat"
 	g2="slash"
 	k="17" />
-    <hkern g1="uni0409,uni040A,uni042A,uni042C"
-	g2="uni040E,uni0423"
-	k="18" />
-    <hkern g1="uni0409,uni040A,uni042A,uni042C"
-	g2="quotedbl,quotesingle"
-	k="69" />
-    <hkern g1="uni0409,uni040A,uni042A,uni042C"
-	g2="quoteleft,quotedblleft"
-	k="74" />
-    <hkern g1="uni0409,uni040A,uni042A,uni042C"
-	g2="quoteright,quotedblright"
-	k="75" />
-    <hkern g1="uni0409,uni040A,uni042A,uni042C"
-	g2="uni0443,uni045E"
-	k="21" />
     <hkern g1="R,Racute,uni0156,Rcaron"
 	g2="c,e,o,ccedilla,egrave,eacute,ecircumflex,edieresis,ograve,oacute,ocircumflex,otilde,odieresis,oslash,cacute,ccircumflex,cdotaccent,ccaron,emacron,ebreve,edotaccent,eogonek,ecaron,omacron,obreve,ohungarumlaut,oe,oslashacute"
 	k="6" />
@@ -8187,18 +10338,6 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="Z,Zacute,Zdotaccent,Zcaron"
 	g2="guillemotleft.case,guilsinglleft.case"
 	k="43" />
-    <hkern g1="uni044A,uni044C,uni0459,uni045A"
-	g2="quotedbl,quotesingle"
-	k="84" />
-    <hkern g1="uni044A,uni044C,uni0459,uni045A"
-	g2="quoteleft,quotedblleft"
-	k="83" />
-    <hkern g1="uni044A,uni044C,uni0459,uni045A"
-	g2="quoteright,quotedblright"
-	k="84" />
-    <hkern g1="uni044A,uni044C,uni0459,uni045A"
-	g2="uni0443,uni045E"
-	k="33" />
     <hkern g1="r,racute,uni0157,rcaron"
 	g2="c,e,o,ccedilla,egrave,eacute,ecircumflex,edieresis,ograve,oacute,ocircumflex,otilde,odieresis,oslash,cacute,ccircumflex,cdotaccent,ccaron,emacron,ebreve,edotaccent,eogonek,ecaron,omacron,obreve,ohungarumlaut,oe,oslashacute"
 	k="12" />
@@ -8238,6 +10377,33 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="r,racute,uni0157,rcaron"
 	g2="slash"
 	k="45" />
+    <hkern g1="uni0409,uni040A,uni042A,uni042C"
+	g2="quotedbl,quotesingle"
+	k="69" />
+    <hkern g1="uni0409,uni040A,uni042A,uni042C"
+	g2="quoteleft,quotedblleft"
+	k="74" />
+    <hkern g1="uni0409,uni040A,uni042A,uni042C"
+	g2="quoteright,quotedblright"
+	k="75" />
+    <hkern g1="uni0409,uni040A,uni042A,uni042C"
+	g2="uni040E,uni0423"
+	k="18" />
+    <hkern g1="uni0409,uni040A,uni042A,uni042C"
+	g2="uni0443,uni045E"
+	k="21" />
+    <hkern g1="uni044A,uni044C,uni0459,uni045A"
+	g2="quotedbl,quotesingle"
+	k="84" />
+    <hkern g1="uni044A,uni044C,uni0459,uni045A"
+	g2="quoteleft,quotedblleft"
+	k="83" />
+    <hkern g1="uni044A,uni044C,uni0459,uni045A"
+	g2="quoteright,quotedblright"
+	k="84" />
+    <hkern g1="uni044A,uni044C,uni0459,uni045A"
+	g2="uni0443,uni045E"
+	k="33" />
     <hkern g1="z,zacute,zdotaccent,zcaron"
 	g2="c,e,o,ccedilla,egrave,eacute,ecircumflex,edieresis,ograve,oacute,ocircumflex,otilde,odieresis,oslash,cacute,ccircumflex,cdotaccent,ccaron,emacron,ebreve,edotaccent,eogonek,ecaron,omacron,obreve,ohungarumlaut,oe,oslashacute"
 	k="7" />
@@ -8268,42 +10434,6 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="z,zacute,zdotaccent,zcaron"
 	g2="guillemotleft,guilsinglleft"
 	k="18" />
-    <hkern g1="uni041E,uni042D,uni042E"
-	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
-	k="20" />
-    <hkern g1="uni041E,uni042D,uni042E"
-	g2="uni0409,uni041B"
-	k="10" />
-    <hkern g1="uni041E,uni042D,uni042E"
-	g2="uni040E,uni0423"
-	k="7" />
-    <hkern g1="uni041E,uni042D,uni042E"
-	g2="uni043B,uni0459"
-	k="15" />
-    <hkern g1="uni041E,uni042D,uni042E"
-	g2="slash"
-	k="17" />
-    <hkern g1="uni0400,uni0401,uni0415"
-	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
-	k="7" />
-    <hkern g1="uni0400,uni0401,uni0415"
-	g2="uni0404,uni041E,uni0421"
-	k="7" />
-    <hkern g1="uni0400,uni0401,uni0415"
-	g2="hyphen,endash,emdash"
-	k="19" />
-    <hkern g1="uni0400,uni0401,uni0415"
-	g2="hyphen.case,endash.case,emdash.case"
-	k="16" />
-    <hkern g1="uni0400,uni0401,uni0415"
-	g2="guillemotleft,guilsinglleft"
-	k="11" />
-    <hkern g1="uni0400,uni0401,uni0415"
-	g2="guillemotleft.case,guilsinglleft.case"
-	k="12" />
-    <hkern g1="uni0400,uni0401,uni0415"
-	g2="uni0443,uni045E"
-	k="20" />
     <hkern g1="b,p,thorn"
 	g2="A,Agrave,Aacute,Acircumflex,Atilde,Adieresis,Aring,Amacron,Abreve,Aogonek"
 	k="6" />
@@ -8448,42 +10578,6 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="hyphen.case,endash.case,emdash.case"
 	g2="uni040E,uni0423"
 	k="43" />
-    <hkern g1="uni043E,uni044D,uni044E"
-	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
-	k="12" />
-    <hkern g1="uni043E,uni044D,uni044E"
-	g2="uni043B,uni0459"
-	k="10" />
-    <hkern g1="uni043E,uni044D,uni044E"
-	g2="quotedbl,quotesingle"
-	k="32" />
-    <hkern g1="uni043E,uni044D,uni044E"
-	g2="quoteleft,quotedblleft"
-	k="37" />
-    <hkern g1="uni043E,uni044D,uni044E"
-	g2="quoteright,quotedblright"
-	k="38" />
-    <hkern g1="uni043E,uni044D,uni044E"
-	g2="uni0443,uni045E"
-	k="19" />
-    <hkern g1="uni043E,uni044D,uni044E"
-	g2="slash"
-	k="14" />
-    <hkern g1="uni0435,uni0450,uni0451"
-	g2="uni043B,uni0459"
-	k="4" />
-    <hkern g1="uni0435,uni0450,uni0451"
-	g2="quotedbl,quotesingle"
-	k="30" />
-    <hkern g1="uni0435,uni0450,uni0451"
-	g2="quoteleft,quotedblleft"
-	k="35" />
-    <hkern g1="uni0435,uni0450,uni0451"
-	g2="quoteright,quotedblright"
-	k="36" />
-    <hkern g1="uni0435,uni0450,uni0451"
-	g2="uni0443,uni045E"
-	k="19" />
     <hkern g1="k,uni0137,kgreenlandic"
 	g2="c,e,o,ccedilla,egrave,eacute,ecircumflex,edieresis,ograve,oacute,ocircumflex,otilde,odieresis,oslash,cacute,ccircumflex,cdotaccent,ccaron,emacron,ebreve,edotaccent,eogonek,ecaron,omacron,obreve,ohungarumlaut,oe,oslashacute"
 	k="25" />
@@ -8535,51 +10629,78 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="t,tbar,uni021B"
 	g2="guillemotleft,guilsinglleft"
 	k="10" />
-    <hkern g1="uni0403,uni0413"
-	g2="uni0432,uni0433,uni0438,uni0439,uni043A,uni043C,uni043D,uni043F,uni0440,uni0446,uni0448,uni0449,uni044B,uni044C,uni044E,uni0453,uni045A,uni045C,uni045D,uni045F"
-	k="100" />
-    <hkern g1="uni0403,uni0413"
+    <hkern g1="uni0400,uni0401,uni0415"
 	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
-	k="131" />
-    <hkern g1="uni0403,uni0413"
-	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
-	k="102" />
-    <hkern g1="uni0403,uni0413"
-	g2="uni0404,uni041E,uni0421"
-	k="14" />
-    <hkern g1="uni0403,uni0413"
+	k="7" />
+    <hkern g1="uni0400,uni0401,uni0415"
 	g2="hyphen,endash,emdash"
-	k="88" />
-    <hkern g1="uni0403,uni0413"
+	k="19" />
+    <hkern g1="uni0400,uni0401,uni0415"
 	g2="hyphen.case,endash.case,emdash.case"
-	k="78" />
-    <hkern g1="uni0403,uni0413"
-	g2="uni0409,uni041B"
-	k="26" />
-    <hkern g1="uni0403,uni0413"
-	g2="colon,semicolon"
-	k="65" />
-    <hkern g1="uni0403,uni0413"
-	g2="uni043B,uni0459"
-	k="130" />
-    <hkern g1="uni0403,uni0413"
+	k="16" />
+    <hkern g1="uni0400,uni0401,uni0415"
+	g2="uni0404,uni041E,uni0421"
+	k="7" />
+    <hkern g1="uni0400,uni0401,uni0415"
 	g2="guillemotleft,guilsinglleft"
-	k="82" />
-    <hkern g1="uni0403,uni0413"
+	k="11" />
+    <hkern g1="uni0400,uni0401,uni0415"
 	g2="guillemotleft.case,guilsinglleft.case"
-	k="82" />
-    <hkern g1="uni0403,uni0413"
-	g2="guillemotright,guilsinglright"
-	k="33" />
-    <hkern g1="uni0403,uni0413"
-	g2="guillemotright.case,guilsinglright.case"
-	k="34" />
-    <hkern g1="uni0403,uni0413"
+	k="12" />
+    <hkern g1="uni0400,uni0401,uni0415"
 	g2="uni0443,uni045E"
-	k="99" />
-    <hkern g1="uni0403,uni0413"
+	k="20" />
+    <hkern g1="uni041E,uni042D,uni042E"
+	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
+	k="20" />
+    <hkern g1="uni041E,uni042D,uni042E"
+	g2="uni0409,uni041B"
+	k="10" />
+    <hkern g1="uni041E,uni042D,uni042E"
+	g2="uni040E,uni0423"
+	k="7" />
+    <hkern g1="uni041E,uni042D,uni042E"
+	g2="uni043B,uni0459"
+	k="15" />
+    <hkern g1="uni041E,uni042D,uni042E"
 	g2="slash"
-	k="81" />
+	k="17" />
+    <hkern g1="uni0435,uni0450,uni0451"
+	g2="quotedbl,quotesingle"
+	k="30" />
+    <hkern g1="uni0435,uni0450,uni0451"
+	g2="quoteleft,quotedblleft"
+	k="35" />
+    <hkern g1="uni0435,uni0450,uni0451"
+	g2="quoteright,quotedblright"
+	k="36" />
+    <hkern g1="uni0435,uni0450,uni0451"
+	g2="uni043B,uni0459"
+	k="4" />
+    <hkern g1="uni0435,uni0450,uni0451"
+	g2="uni0443,uni045E"
+	k="19" />
+    <hkern g1="uni043E,uni044D,uni044E"
+	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
+	k="12" />
+    <hkern g1="uni043E,uni044D,uni044E"
+	g2="quotedbl,quotesingle"
+	k="32" />
+    <hkern g1="uni043E,uni044D,uni044E"
+	g2="quoteleft,quotedblleft"
+	k="37" />
+    <hkern g1="uni043E,uni044D,uni044E"
+	g2="quoteright,quotedblright"
+	k="38" />
+    <hkern g1="uni043E,uni044D,uni044E"
+	g2="uni043B,uni0459"
+	k="10" />
+    <hkern g1="uni043E,uni044D,uni044E"
+	g2="uni0443,uni045E"
+	k="19" />
+    <hkern g1="uni043E,uni044D,uni044E"
+	g2="slash"
+	k="14" />
     <hkern g1="K,uni0136"
 	g2="c,e,o,ccedilla,egrave,eacute,ecircumflex,edieresis,ograve,oacute,ocircumflex,otilde,odieresis,oslash,cacute,ccircumflex,cdotaccent,ccaron,emacron,ebreve,edotaccent,eogonek,ecaron,omacron,obreve,ohungarumlaut,oe,oslashacute"
 	k="30" />
@@ -8631,78 +10752,6 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="K,uni0136"
 	g2="guillemotleft.case,guilsinglleft.case"
 	k="60" />
-    <hkern g1="uni040C,uni041A"
-	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
-	k="30" />
-    <hkern g1="uni040C,uni041A"
-	g2="uni0404,uni041E,uni0421"
-	k="37" />
-    <hkern g1="uni040C,uni041A"
-	g2="hyphen,endash,emdash"
-	k="65" />
-    <hkern g1="uni040C,uni041A"
-	g2="hyphen.case,endash.case,emdash.case"
-	k="71" />
-    <hkern g1="uni040C,uni041A"
-	g2="guillemotleft,guilsinglleft"
-	k="60" />
-    <hkern g1="uni040C,uni041A"
-	g2="guillemotleft.case,guilsinglleft.case"
-	k="60" />
-    <hkern g1="uni040C,uni041A"
-	g2="uni0443,uni045E"
-	k="51" />
-    <hkern g1="uni0426,uni0429"
-	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
-	k="5" />
-    <hkern g1="uni0426,uni0429"
-	g2="hyphen,endash,emdash"
-	k="13" />
-    <hkern g1="uni0426,uni0429"
-	g2="hyphen.case,endash.case,emdash.case"
-	k="12" />
-    <hkern g1="uni0426,uni0429"
-	g2="uni0443,uni045E"
-	k="5" />
-    <hkern g1="uni040E,uni0423"
-	g2="uni0432,uni0433,uni0438,uni0439,uni043A,uni043C,uni043D,uni043F,uni0440,uni0446,uni0448,uni0449,uni044B,uni044C,uni044E,uni0453,uni045A,uni045C,uni045D,uni045F"
-	k="39" />
-    <hkern g1="uni040E,uni0423"
-	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
-	k="64" />
-    <hkern g1="uni040E,uni0423"
-	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
-	k="84" />
-    <hkern g1="uni040E,uni0423"
-	g2="uni0404,uni041E,uni0421"
-	k="8" />
-    <hkern g1="uni040E,uni0423"
-	g2="hyphen,endash,emdash"
-	k="50" />
-    <hkern g1="uni040E,uni0423"
-	g2="hyphen.case,endash.case,emdash.case"
-	k="39" />
-    <hkern g1="uni040E,uni0423"
-	g2="uni0409,uni041B"
-	k="28" />
-    <hkern g1="uni040E,uni0423"
-	g2="colon,semicolon"
-	k="26" />
-    <hkern g1="uni040E,uni0423"
-	g2="uni043B,uni0459"
-	k="77" />
-    <hkern g1="uni040E,uni0423"
-	g2="guillemotleft,guilsinglleft"
-	k="39" />
-    <hkern g1="uni040E,uni0423"
-	g2="guillemotleft.case,guilsinglleft.case"
-	k="40" />
-    <hkern g1="uni040E,uni0423"
-	g2="uni0443,uni045E"
-	k="15" />
-    <hkern g1="uni040E,uni0423"
-	g2="slash"
-	k="69" />
     <hkern g1="colon,semicolon"
 	g2="Y,Yacute,Ycircumflex,Ydieresis,Ygrave"
 	k="47" />
@@ -8733,27 +10782,6 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="dcaron,lcaron"
 	g2="quoteright,quotedblright"
 	k="-8" />
-    <hkern g1="uni0440,uni0444"
-	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
-	k="12" />
-    <hkern g1="uni0440,uni0444"
-	g2="uni043B,uni0459"
-	k="9" />
-    <hkern g1="uni0440,uni0444"
-	g2="quotedbl,quotesingle"
-	k="31" />
-    <hkern g1="uni0440,uni0444"
-	g2="quoteleft,quotedblleft"
-	k="36" />
-    <hkern g1="uni0440,uni0444"
-	g2="quoteright,quotedblright"
-	k="37" />
-    <hkern g1="uni0440,uni0444"
-	g2="uni0443,uni045E"
-	k="19" />
-    <hkern g1="uni0440,uni0444"
-	g2="slash"
-	k="14" />
     <hkern g1="f,f_f"
 	g2="c,e,o,ccedilla,egrave,eacute,ecircumflex,edieresis,ograve,oacute,ocircumflex,otilde,odieresis,oslash,cacute,ccircumflex,cdotaccent,ccaron,emacron,ebreve,edotaccent,eogonek,ecaron,omacron,obreve,ohungarumlaut,oe,oslashacute"
 	k="11" />
@@ -8790,24 +10818,6 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="f,f_f"
 	g2="slash"
 	k="36" />
-    <hkern g1="uni0433,uni0453"
-	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
-	k="12" />
-    <hkern g1="uni0433,uni0453"
-	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
-	k="88" />
-    <hkern g1="uni0433,uni0453"
-	g2="hyphen,endash,emdash"
-	k="57" />
-    <hkern g1="uni0433,uni0453"
-	g2="uni043B,uni0459"
-	k="26" />
-    <hkern g1="uni0433,uni0453"
-	g2="guillemotleft,guilsinglleft"
-	k="11" />
-    <hkern g1="uni0433,uni0453"
-	g2="slash"
-	k="57" />
     <hkern g1="guillemotleft,guilsinglleft"
 	g2="Y,Yacute,Ycircumflex,Ydieresis,Ygrave"
 	k="24" />
@@ -8898,15 +10908,6 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="guillemotright.case,guilsinglright.case"
 	g2="uni040E,uni0423"
 	k="41" />
-    <hkern g1="uni043A,uni045C"
-	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
-	k="25" />
-    <hkern g1="uni043A,uni045C"
-	g2="hyphen,endash,emdash"
-	k="47" />
-    <hkern g1="uni043A,uni045C"
-	g2="guillemotleft,guilsinglleft"
-	k="24" />
     <hkern g1="quotedbl,quotesingle"
 	g2="c,e,o,ccedilla,egrave,eacute,ecircumflex,edieresis,ograve,oacute,ocircumflex,otilde,odieresis,oslash,cacute,ccircumflex,cdotaccent,ccaron,emacron,ebreve,edotaccent,eogonek,ecaron,omacron,obreve,ohungarumlaut,oe,oslashacute"
 	k="32" />
@@ -8923,11 +10924,11 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
 	g2="A,Agrave,Aacute,Acircumflex,Atilde,Adieresis,Aring,Amacron,Abreve,Aogonek"
 	k="69" />
     <hkern g1="quotedbl,quotesingle"
-	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
-	k="32" />
-    <hkern g1="quotedbl,quotesingle"
 	g2="s,sacute,scircumflex,scedilla,scaron,uni0219"
 	k="23" />
+    <hkern g1="quotedbl,quotesingle"
+	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
+	k="32" />
     <hkern g1="quotedbl,quotesingle"
 	g2="g,gcircumflex,gbreve,gdotaccent,uni0123"
 	k="32" />
@@ -8965,11 +10966,11 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
 	g2="A,Agrave,Aacute,Acircumflex,Atilde,Adieresis,Aring,Amacron,Abreve,Aogonek"
 	k="73" />
     <hkern g1="quoteleft,quotedblleft"
-	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
-	k="43" />
-    <hkern g1="quoteleft,quotedblleft"
 	g2="s,sacute,scircumflex,scedilla,scaron,uni0219"
 	k="32" />
+    <hkern g1="quoteleft,quotedblleft"
+	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
+	k="43" />
     <hkern g1="quoteleft,quotedblleft"
 	g2="g,gcircumflex,gbreve,gdotaccent,uni0123"
 	k="43" />
@@ -9013,11 +11014,11 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
 	g2="S,Sacute,Scircumflex,Scedilla,Scaron,uni0218"
 	k="8" />
     <hkern g1="quoteright,quotedblright"
-	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
-	k="48" />
-    <hkern g1="quoteright,quotedblright"
 	g2="s,sacute,scircumflex,scedilla,scaron,uni0219"
 	k="37" />
+    <hkern g1="quoteright,quotedblright"
+	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
+	k="48" />
     <hkern g1="quoteright,quotedblright"
 	g2="g,gcircumflex,gbreve,gdotaccent,uni0123"
 	k="47" />
@@ -9039,6 +11040,189 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="quoteright,quotedblright"
 	g2="uni043B,uni0459"
 	k="40" />
+    <hkern g1="uni0403,uni0413"
+	g2="uni0432,uni0433,uni0438,uni0439,uni043A,uni043C,uni043D,uni043F,uni0440,uni0446,uni0448,uni0449,uni044B,uni044C,uni044E,uni0453,uni045A,uni045C,uni045D,uni045F"
+	k="100" />
+    <hkern g1="uni0403,uni0413"
+	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
+	k="131" />
+    <hkern g1="uni0403,uni0413"
+	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
+	k="102" />
+    <hkern g1="uni0403,uni0413"
+	g2="hyphen,endash,emdash"
+	k="88" />
+    <hkern g1="uni0403,uni0413"
+	g2="hyphen.case,endash.case,emdash.case"
+	k="78" />
+    <hkern g1="uni0403,uni0413"
+	g2="uni0404,uni041E,uni0421"
+	k="14" />
+    <hkern g1="uni0403,uni0413"
+	g2="colon,semicolon"
+	k="65" />
+    <hkern g1="uni0403,uni0413"
+	g2="guillemotleft,guilsinglleft"
+	k="82" />
+    <hkern g1="uni0403,uni0413"
+	g2="guillemotleft.case,guilsinglleft.case"
+	k="82" />
+    <hkern g1="uni0403,uni0413"
+	g2="guillemotright,guilsinglright"
+	k="33" />
+    <hkern g1="uni0403,uni0413"
+	g2="guillemotright.case,guilsinglright.case"
+	k="34" />
+    <hkern g1="uni0403,uni0413"
+	g2="uni0409,uni041B"
+	k="26" />
+    <hkern g1="uni0403,uni0413"
+	g2="uni043B,uni0459"
+	k="130" />
+    <hkern g1="uni0403,uni0413"
+	g2="uni0443,uni045E"
+	k="99" />
+    <hkern g1="uni0403,uni0413"
+	g2="slash"
+	k="81" />
+    <hkern g1="uni040C,uni041A"
+	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
+	k="30" />
+    <hkern g1="uni040C,uni041A"
+	g2="hyphen,endash,emdash"
+	k="65" />
+    <hkern g1="uni040C,uni041A"
+	g2="hyphen.case,endash.case,emdash.case"
+	k="71" />
+    <hkern g1="uni040C,uni041A"
+	g2="uni0404,uni041E,uni0421"
+	k="37" />
+    <hkern g1="uni040C,uni041A"
+	g2="guillemotleft,guilsinglleft"
+	k="60" />
+    <hkern g1="uni040C,uni041A"
+	g2="guillemotleft.case,guilsinglleft.case"
+	k="60" />
+    <hkern g1="uni040C,uni041A"
+	g2="uni0443,uni045E"
+	k="51" />
+    <hkern g1="uni040E,uni0423"
+	g2="uni0432,uni0433,uni0438,uni0439,uni043A,uni043C,uni043D,uni043F,uni0440,uni0446,uni0448,uni0449,uni044B,uni044C,uni044E,uni0453,uni045A,uni045C,uni045D,uni045F"
+	k="39" />
+    <hkern g1="uni040E,uni0423"
+	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
+	k="64" />
+    <hkern g1="uni040E,uni0423"
+	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
+	k="84" />
+    <hkern g1="uni040E,uni0423"
+	g2="hyphen,endash,emdash"
+	k="50" />
+    <hkern g1="uni040E,uni0423"
+	g2="hyphen.case,endash.case,emdash.case"
+	k="39" />
+    <hkern g1="uni040E,uni0423"
+	g2="uni0404,uni041E,uni0421"
+	k="8" />
+    <hkern g1="uni040E,uni0423"
+	g2="colon,semicolon"
+	k="26" />
+    <hkern g1="uni040E,uni0423"
+	g2="guillemotleft,guilsinglleft"
+	k="39" />
+    <hkern g1="uni040E,uni0423"
+	g2="guillemotleft.case,guilsinglleft.case"
+	k="40" />
+    <hkern g1="uni040E,uni0423"
+	g2="uni0409,uni041B"
+	k="28" />
+    <hkern g1="uni040E,uni0423"
+	g2="uni043B,uni0459"
+	k="77" />
+    <hkern g1="uni040E,uni0423"
+	g2="uni0443,uni045E"
+	k="15" />
+    <hkern g1="uni040E,uni0423"
+	g2="slash"
+	k="69" />
+    <hkern g1="uni0426,uni0429"
+	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
+	k="5" />
+    <hkern g1="uni0426,uni0429"
+	g2="hyphen,endash,emdash"
+	k="13" />
+    <hkern g1="uni0426,uni0429"
+	g2="hyphen.case,endash.case,emdash.case"
+	k="12" />
+    <hkern g1="uni0426,uni0429"
+	g2="uni0443,uni045E"
+	k="5" />
+    <hkern g1="uni0433,uni0453"
+	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
+	k="12" />
+    <hkern g1="uni0433,uni0453"
+	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
+	k="88" />
+    <hkern g1="uni0433,uni0453"
+	g2="hyphen,endash,emdash"
+	k="57" />
+    <hkern g1="uni0433,uni0453"
+	g2="guillemotleft,guilsinglleft"
+	k="11" />
+    <hkern g1="uni0433,uni0453"
+	g2="uni043B,uni0459"
+	k="26" />
+    <hkern g1="uni0433,uni0453"
+	g2="slash"
+	k="57" />
+    <hkern g1="uni043A,uni045C"
+	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
+	k="25" />
+    <hkern g1="uni043A,uni045C"
+	g2="hyphen,endash,emdash"
+	k="47" />
+    <hkern g1="uni043A,uni045C"
+	g2="guillemotleft,guilsinglleft"
+	k="24" />
+    <hkern g1="uni0440,uni0444"
+	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
+	k="12" />
+    <hkern g1="uni0440,uni0444"
+	g2="quotedbl,quotesingle"
+	k="31" />
+    <hkern g1="uni0440,uni0444"
+	g2="quoteleft,quotedblleft"
+	k="36" />
+    <hkern g1="uni0440,uni0444"
+	g2="quoteright,quotedblright"
+	k="37" />
+    <hkern g1="uni0440,uni0444"
+	g2="uni043B,uni0459"
+	k="9" />
+    <hkern g1="uni0440,uni0444"
+	g2="uni0443,uni045E"
+	k="19" />
+    <hkern g1="uni0440,uni0444"
+	g2="slash"
+	k="14" />
+    <hkern g1="uni0443,uni045E"
+	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
+	k="17" />
+    <hkern g1="uni0443,uni045E"
+	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
+	k="60" />
+    <hkern g1="uni0443,uni045E"
+	g2="hyphen,endash,emdash"
+	k="24" />
+    <hkern g1="uni0443,uni045E"
+	g2="guillemotleft,guilsinglleft"
+	k="15" />
+    <hkern g1="uni0443,uni045E"
+	g2="uni043B,uni0459"
+	k="29" />
+    <hkern g1="uni0443,uni045E"
+	g2="slash"
+	k="46" />
     <hkern g1="uni0446,uni0449"
 	g2="hyphen,endash,emdash"
 	k="9" />
@@ -9054,24 +11238,6 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
     <hkern g1="uni0446,uni0449"
 	g2="uni0443,uni045E"
 	k="6" />
-    <hkern g1="uni0443,uni045E"
-	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
-	k="17" />
-    <hkern g1="uni0443,uni045E"
-	g2="comma,period,quotesinglbase,quotedblbase,ellipsis"
-	k="60" />
-    <hkern g1="uni0443,uni045E"
-	g2="hyphen,endash,emdash"
-	k="24" />
-    <hkern g1="uni0443,uni045E"
-	g2="uni043B,uni0459"
-	k="29" />
-    <hkern g1="uni0443,uni045E"
-	g2="guillemotleft,guilsinglleft"
-	k="15" />
-    <hkern g1="uni0443,uni045E"
-	g2="slash"
-	k="46" />
     <hkern g1="slash"
 	g2="B,D,E,F,H,I,K,L,M,N,P,R,Egrave,Eacute,Ecircumflex,Edieresis,Igrave,Iacute,Icircumflex,Idieresis,Eth,Ntilde,Thorn,Dcaron,Dcroat,Emacron,Ebreve,Edotaccent,Eogonek,Ecaron,Hcircumflex,Hbar,Itilde,Imacron,Ibreve,Iogonek,Idotaccent,IJ,uni0136,Lacute,uni013B,Lcaron,Ldot,Lslash,Nacute,uni0145,Ncaron,Eng,Racute,uni0156,Rcaron"
 	k="-29" />
@@ -9103,14 +11269,14 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
 	g2="S,Sacute,Scircumflex,Scedilla,Scaron,uni0218"
 	k="11" />
     <hkern g1="slash"
-	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
-	k="46" />
-    <hkern g1="slash"
 	g2="f,fi,fl,f_f,f_f_i,f_f_l"
 	k="10" />
     <hkern g1="slash"
 	g2="s,sacute,scircumflex,scedilla,scaron,uni0219"
 	k="40" />
+    <hkern g1="slash"
+	g2="uni0435,uni043E,uni0441,uni0450,uni0451,uni0454"
+	k="46" />
     <hkern g1="slash"
 	g2="g,gcircumflex,gbreve,gdotaccent,uni0123"
 	k="46" />
@@ -9127,11 +11293,11 @@ t16 6h360q10 0 16 -6t6 -16v-16q0 -10 -6 -16t-16 -6h-360z" />
 	g2="z,zacute,zdotaccent,zcaron"
 	k="25" />
     <hkern g1="slash"
-	g2="uni0404,uni041E,uni0421"
-	k="18" />
-    <hkern g1="slash"
 	g2="jcircumflex,uni0237,uni006A0301"
 	k="13" />
+    <hkern g1="slash"
+	g2="uni0404,uni041E,uni0421"
+	k="18" />
     <hkern g1="slash"
 	g2="AE,AEacute"
 	k="71" />
