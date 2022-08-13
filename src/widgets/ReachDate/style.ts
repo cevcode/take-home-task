@@ -1,5 +1,5 @@
 import styled, { css } from 'styled-components';
-import { globalStyles } from '~/helpers/theme';
+import { globalStyles, media } from '~/helpers/theme';
 
 export const StyledReachDate = styled.div`
     width: 100%;
@@ -7,6 +7,11 @@ export const StyledReachDate = styled.div`
     flex-direction: column;
     margin-left: 1rem;
     max-width: 12rem;
+    @media ${media.lessThanMobile} {
+      max-width: none;
+      margin-left: 0;
+      margin-top: 1rem;
+    }
 `;
 
 export const StyledLabel = styled.p`

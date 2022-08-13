@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { globalStyles } from '~/helpers/theme';
+import { globalStyles, media } from '~/helpers/theme';
 
 export const StyledPage = styled.div`
     min-height: 100vh;
@@ -9,6 +9,9 @@ export const StyledHeader = styled.div`
     width: 100%;
     background-color: #fff;
     padding: 1.5rem 3.5rem;
+    @media ${media.lessThanMobile} {
+      padding: 1rem;
+    }
 `;
 
 export const StyledOuter = styled.div`
@@ -35,6 +38,9 @@ export const StyledBox = styled.div`
     box-shadow: 0 16px 32px rgba(30, 42, 50, 0.08);
     border-radius: 0.5rem;
     padding: 2.5rem;
+    @media ${media.lessThanMobile} {
+      padding: 1.5rem;
+    }
 `;
 
 export const StyledBold = styled.span`
@@ -109,6 +115,9 @@ export const StyledButton = styled.button`
     &:active {
         filter: grayscale(50%);
     }
+    @media ${media.lessThanMobile} {
+      width: 100%;
+    }
 `;
 
 export const StyledFooter = styled(StyledRow)`
@@ -119,4 +128,7 @@ export const StyledFooter = styled(StyledRow)`
 
 export const StyledComponentsRow = styled(StyledRow)`
     margin: 1.5rem 0;
+    @media ${media.lessThanMobile} {
+      flex-direction: column;
+    }
 `;

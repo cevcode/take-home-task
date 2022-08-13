@@ -11,6 +11,9 @@ export const globalStyles = {
     fonts: {
         default: `'WorkSans', sans-serif`,
         accent: `'Rubik', sans-serif`,
+    },
+    breakpoints: {
+        mobile: '560px',
     }
 };
 
@@ -98,6 +101,10 @@ export const withFonts = () => {
         const { name, src, fontWeight } = item;
         return fontFace(name, src, fontWeight);
     });
+};
+
+export const media = {
+    lessThanMobile: `(max-width: ${globalStyles.breakpoints.mobile})`,
 };
 
 export const GlobalStyle = createGlobalStyle`
