@@ -1,7 +1,7 @@
 import React from 'react';
-import { GlobalStyle } from '~/helpers/theme';
-import { HomePage } from '~/pages/Home';
-import { CurrencyTypesEnum } from '~/helpers/currency';
+import { GlobalStyle } from '@helpers/theme';
+import { HomePage } from '@pages/Home';
+import { CurrencyTypesEnum } from '@helpers/currency';
 
 const globalSettings = {
     currency: CurrencyTypesEnum.USD,

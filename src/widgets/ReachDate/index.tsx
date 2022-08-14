@@ -1,7 +1,15 @@
 import React, { useEffect, useState } from 'react';
 import moment from 'moment';
-import arrowLeftIcon from '~/static/arrow-left.svg';
-import { StyledButton, StyledButtonRight, StyledContent, StyledField, StyledLabel, StyledReachDate, StyledTitle } from '~/widgets/ReachDate/style';
+import arrowLeftIcon from '@static/arrow-left.svg';
+import {
+    StyledButton,
+    StyledButtonRight,
+    StyledContent,
+    StyledField,
+    StyledLabel,
+    StyledReachDate,
+    StyledTitle,
+} from './style';
 
 interface ReachDateProps {
     label: string;
@@ -55,17 +63,27 @@ const ReachDate: React.FC<ReachDateProps> = ({ label }) => {
     };
 
     return (
-        <StyledReachDate>
+        <StyledReachDate data-test='reach-date-widget'>
             <StyledLabel>{label}</StyledLabel>
-            <StyledField onFocus={handleFocusField} onBlur={handleBlurField} tabIndex={0} focused={focused}>
-                <StyledButton onClick={handleClickPrev} disabled={isPrevButtonDisabled}>
+            <StyledField
+                onFocus={handleFocusField}
+                onBlur={handleBlurField}
+                tabIndex={0}
+                focused={focused}
+                data-test='reach-date-field'
+            >
+                <StyledButton
+                    onClick={handleClickPrev}
+                    disabled={isPrevButtonDisabled}
+                    data-test='reach-date-left-arrow'
+                >
                     <img src={arrowLeftIcon} alt='arrow-left-icon' />
                 </StyledButton>
                 <StyledContent>
-                    <StyledTitle>{moment(date).format('MMMM')}</StyledTitle>
-                    <p>{moment(date).format('YYYY')}</p>
+                    <StyledTitle data-test='reach-date-month-field'>{moment(date).format('MMMM')}</StyledTitle>
+                    <p data-test='reach-date-year-field'>{moment(date).format('YYYY')}</p>
                 </StyledContent>
-                <StyledButtonRight onClick={handleClickNext}>
+                <StyledButtonRight onClick={handleClickNext} data-test='reach-date-right-arrow'>
                     <img src={arrowLeftIcon} alt='arrow-right-icon' />
                 </StyledButtonRight>
             </StyledField>

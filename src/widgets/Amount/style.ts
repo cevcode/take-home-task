@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { globalStyles } from '~/helpers/theme';
+import { globalStyles } from '@helpers/theme';
 
 export const StyledAmount = styled.div`
     width: 100%;

@@ -1,4 +1,4 @@
-import usdIcon from '~/static/dollar-sign.svg';
+import usdIcon from '@static/dollar-sign.svg';
 
 export enum CurrencyTypesEnum {
     USD = 'USD',

@@ -1,8 +1,9 @@
 import React from 'react';
-import logoImg from '~/static/logoOrigin.svg';
-import homeImg from '~/static/home_icon.svg';
-import { Amount, ReachDate } from '~/widgets';
-import { CurrencyTypesEnum } from '~/helpers/currency';
+import logoImg from '@static/logoOrigin.svg';
+import homeImg from '@static/home_icon.svg';
+import { ReachDate } from '@widgets/ReachDate';
+import { Amount } from '@widgets/Amount';
+import { CurrencyTypesEnum } from '@helpers/currency';
 import {
     StyledAmount,
     StyledAmountBottom,
@@ -20,7 +21,7 @@ import {
     StyledInner,
     StyledOuter,
     StyledPage,
-} from '~/pages/Home/style';
+} from './style';
 
 interface HomePageProps {
     currency: CurrencyTypesEnum;
@@ -28,7 +29,7 @@ interface HomePageProps {
 
 const HomePage: React.FC<HomePageProps> = ({ currency }) => {
     return (
-        <StyledPage>
+        <StyledPage data-test="home-page">
             <StyledHeader>
                 <img src={logoImg} alt='logo' />
             </StyledHeader>
@@ -56,8 +57,8 @@ const HomePage: React.FC<HomePageProps> = ({ currency }) => {
                             </StyledAmountTop>
                             <StyledAmountBottom>
                                 <p>
-                                    You’re planning <StyledBold>48 monthly deposits</StyledBold> to reach your <StyledBold>$25,000</StyledBold> goal by{' '}
-                                    <StyledBold>October 2020.</StyledBold>
+                                    You’re planning <StyledBold>48 monthly deposits</StyledBold> to reach your{' '}
+                                    <StyledBold>$25,000</StyledBold> goal by <StyledBold>October 2020.</StyledBold>
                                 </p>
                             </StyledAmountBottom>
                         </StyledAmount>

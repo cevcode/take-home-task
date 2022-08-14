@@ -1,5 +1,5 @@
 import styled, { css } from 'styled-components';
-import { globalStyles, media } from '~/helpers/theme';
+import { globalStyles, media } from '@helpers/theme';
 
 export const StyledReachDate = styled.div`
     width: 100%;
