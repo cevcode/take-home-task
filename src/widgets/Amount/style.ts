@@ -21,8 +21,8 @@ export const StyledField = styled.div`
     border: 1px solid ${globalStyles.palette.borderColor};
     border-radius: 0.25rem;
     input {
-        border: 0;
         width: 100%;
+        border: 1px solid transparent;
         height: 100%;
         font-size: 1.5rem;
         font-family: ${globalStyles.fonts.accent};

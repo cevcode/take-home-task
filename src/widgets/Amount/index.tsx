@@ -1,30 +1,37 @@
-import React, { useState } from 'react';
-import { CurrencyTypesEnum, getCurrencySymbol } from '@helpers/currency';
+import React from 'react';
+import { CurrencyTypesEnum, getCurrencyIcon } from '@helpers/currency';
 import CurrencyInput from 'react-currency-input-field';
 import { StyledAmount, StyledCurrencySymbol, StyledField, StyledLabel } from './style';
 
-interface AmountProps {
+export interface AmountProps {
     label: string;
     currency: CurrencyTypesEnum;
-    defaultValue?: string | number;
+    value?: string | number;
+    onChange: (value?: string) => void;
 }
 
-const prepareDefaultValue = (defaultValue: string | number): string => {
-    if (!defaultValue || !Number(defaultValue)) {
+const prepareDefaultValue = (value?: string | number): string => {
+    if (!value || !Number(value)) {
         return '0';
     }
-    return defaultValue.toString();
+    return value.toString();
 };
 
-const Amount: React.FC<AmountProps> = ({ label, currency, defaultValue = '0' }) => {
-    const [value, setValue] = useState<string | undefined>(prepareDefaultValue(defaultValue));
+const Amount: React.FC<AmountProps> = ({ label, currency, value, onChange }) => {
+
+    const handleChange = (value?: string) => {
+        if (!value) {
+            return onChange('0');
+        }
+        return onChange(value);
+    };
 
     return (
         <StyledAmount data-test='amount-widget'>
             <StyledLabel>{label}</StyledLabel>
             <StyledField>
                 <StyledCurrencySymbol>
-                    <img src={getCurrencySymbol(currency)} alt={`currency-symbol-${currency}`} />
+                    <img src={getCurrencyIcon(currency)} alt={`currency-symbol-${currency}`} />
                 </StyledCurrencySymbol>
                 <CurrencyInput
                     decimalsLimit={2}
@@ -32,10 +39,10 @@ const Amount: React.FC<AmountProps> = ({ label, currency, defaultValue = '0' }) 
                     data-test='amount-input'
                     name='currency-field'
                     allowNegativeValue={false}
-                    value={value}
+                    value={prepareDefaultValue(value)}
                     decimalSeparator='.'
                     groupSeparator=','
-                    onValueChange={value => setValue(value)}
+                    onValueChange={value => handleChange(value)}
                 />
             </StyledField>
         </StyledAmount>

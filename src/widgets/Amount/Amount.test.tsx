@@ -1,13 +1,7 @@
 import React from 'react';
 import { render } from '@testUtils/testUtils';
-import { Amount } from './';
+import { Amount, AmountProps } from "./";
 import { CurrencyTypesEnum } from '@helpers/currency';
-
-interface AmountProps {
-    label: string;
-    currency: CurrencyTypesEnum;
-    defaultValue?: string | number;
-}
 
 describe('Widgets -> Amount', () => {
     let props: AmountProps;
@@ -16,12 +10,13 @@ describe('Widgets -> Amount', () => {
         props = {
             label: 'Some label',
             currency: CurrencyTypesEnum.default,
-            defaultValue: '0',
+            value: '0',
+            onChange: i => i,
         };
     });
 
     const renderComponent = () =>
-        render(<Amount currency={props.currency} label={props.label} defaultValue={props.defaultValue} />);
+        render(<Amount currency={props.currency} label={props.label} value={props.value} onChange={props.onChange} />);
 
     it('should render without crash', async () => {
         const wrapper: any = await renderComponent();
@@ -39,7 +34,7 @@ describe('Widgets -> Amount', () => {
     });
 
     it('should render provided value as string with decimals in input', async () => {
-        props.defaultValue = '50000.51234';
+        props.value = '50000.51234';
         const wrapper: any = await renderComponent();
         const input = wrapper.queryByDataTest('amount-input');
         expect(input).toBeInTheDocument();
@@ -47,7 +42,7 @@ describe('Widgets -> Amount', () => {
     });
 
     it('should render provided value as invalid string in input', async () => {
-        props.defaultValue = 'some-string';
+        props.value = 'some-string';
         const wrapper: any = await renderComponent();
         const input = wrapper.queryByDataTest('amount-input');
         expect(input).toBeInTheDocument();
@@ -55,7 +50,7 @@ describe('Widgets -> Amount', () => {
     });
 
     it('should render provided value as number in input', async () => {
-        props.defaultValue = 100;
+        props.value = 100;
         const wrapper: any = await renderComponent();
         const input = wrapper.queryByDataTest('amount-input');
         expect(input).toBeInTheDocument();

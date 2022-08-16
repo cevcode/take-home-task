@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import moment from 'moment';
+import moment from "moment";
 import arrowLeftIcon from '@static/arrow-left.svg';
 import {
     StyledButton,
@@ -11,12 +11,13 @@ import {
     StyledTitle,
 } from './style';
 
-interface ReachDateProps {
+export interface ReachDateProps {
     label: string;
+    date: Date;
+    setDate: (date: Date) => void;
 }
 
-const ReachDate: React.FC<ReachDateProps> = ({ label }) => {
-    const [date, setDate] = useState<Date>(moment().toDate());
+const ReachDate: React.FC<ReachDateProps> = ({ label, date, setDate }) => {
     const [focused, handleFocus] = useState<boolean>(false);
 
     const checkPrevButtonDisabled = () => {

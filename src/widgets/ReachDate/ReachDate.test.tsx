@@ -1,13 +1,11 @@
 import React from 'react';
+import Sinon, { SinonSpy } from 'sinon';
 import moment from 'moment';
 import { render, within, fireEvent } from '@testUtils/testUtils';
-import { ReachDate } from './';
+import { ReachDate, ReachDateProps } from './';
 import userEvent from '@testing-library/user-event/dist';
 
-
-interface ReachDateProps {
-    label: string;
-}
+const sandbox = Sinon.createSandbox();
 
 describe('Widgets -> ReachDate', () => {
     let props: ReachDateProps;
@@ -15,11 +13,12 @@ describe('Widgets -> ReachDate', () => {
     beforeEach(() => {
         props = {
             label: 'Some label',
+            date: moment().toDate(),
+            setDate: sandbox.stub(),
         };
     });
 
-    const renderComponent = () =>
-        render(<ReachDate label={props.label} />);
+    const renderComponent = () => render(<ReachDate label={props.label} date={props.date} setDate={props.setDate} />);
 
     it('should render without crash', async () => {
         const wrapper: any = await renderComponent();
@@ -44,7 +43,7 @@ describe('Widgets -> ReachDate', () => {
         const monthField = wrapper.queryByDataTest('reach-date-month-field');
         expect(monthField).toBeInTheDocument();
         const { getByText } = within(monthField);
-        expect(getByText(moment().format('MMMM'))).toBeInTheDocument()
+        expect(getByText(moment().format('MMMM'))).toBeInTheDocument();
     });
 
     it('should render current year', async () => {
@@ -52,7 +51,7 @@ describe('Widgets -> ReachDate', () => {
         const yearField = wrapper.queryByDataTest('reach-date-year-field');
         expect(yearField).toBeInTheDocument();
         const { getByText } = within(yearField);
-        expect(getByText(moment().format('YYYY'))).toBeInTheDocument()
+        expect(getByText(moment().format('YYYY'))).toBeInTheDocument();
     });
 
     it('should disable prev button if the value will be less than current date', async () => {
@@ -87,7 +86,10 @@ describe('Widgets -> ReachDate', () => {
         expect(rightButton).toBeInTheDocument();
 
         userEvent.click(rightButton);
-        expect(within(monthField).getByText(moment().add(1, 'M').format('MMMM'))).toBeInTheDocument();
+        expect((props.setDate as SinonSpy<any>).called).toBeTruthy();
+        expect(moment((props.setDate as SinonSpy<any>).firstCall.args[0]).format('MMMM')).toBe(
+            moment().add(1, 'M').format('MMMM')
+        );
     });
 
     it('should allow user to add 1 month by using ArrowRight keyboard button if field is in focus', async () => {
@@ -102,12 +104,15 @@ describe('Widgets -> ReachDate', () => {
 
         fireEvent.focus(field);
         fireEvent.keyDown(field, {
-            key: "ArrowRight",
-            code: "ArrowRight",
+            key: 'ArrowRight',
+            code: 'ArrowRight',
             keyCode: 37,
-            charCode: 37
+            charCode: 37,
         });
 
-        expect(within(monthField).getByText(moment().add(1, 'M').format('MMMM'))).toBeInTheDocument();
+        expect((props.setDate as SinonSpy<any>).called).toBeTruthy();
+        expect(moment((props.setDate as SinonSpy<any>).firstCall.args[0]).format('MMMM')).toBe(
+            moment().add(1, 'M').format('MMMM')
+        );
     });
 });
