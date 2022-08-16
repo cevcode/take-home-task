@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/take-home-task/static/js/main.27445995.js",
+    "main.js": "/take-home-task/static/js/main.57232e8e.js",
     "static/js/787.34bc47f5.chunk.js": "/take-home-task/static/js/787.34bc47f5.chunk.js",
     "static/media/home_icon.svg": "/take-home-task/static/media/home_icon.5642fcae62419629b8b0a32e35252745.svg",
     "static/media/logoOrigin.svg": "/take-home-task/static/media/logoOrigin.6d9e2b1b4d01f68222c3194fff4db1f8.svg",
     "static/media/dollar-sign.svg": "/take-home-task/static/media/dollar-sign.abb7953b39fa40a804ea709ba6debba3.svg",
     "index.html": "/take-home-task/index.html",
     "static/media/arrow-left.svg": "/take-home-task/static/media/arrow-left.4ddf5f0655b7e61e966242560fd404f0.svg",
-    "main.27445995.js.map": "/take-home-task/static/js/main.27445995.js.map",
+    "main.57232e8e.js.map": "/take-home-task/static/js/main.57232e8e.js.map",
     "787.34bc47f5.chunk.js.map": "/take-home-task/static/js/787.34bc47f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.27445995.js"
+    "static/js/main.57232e8e.js"
   ]
 }
